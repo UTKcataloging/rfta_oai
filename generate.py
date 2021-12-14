@@ -1,4 +1,5 @@
 import requests
+from tqdm import tqdm
 
 
 class OAIGenerator:
@@ -13,8 +14,9 @@ class OAIGenerator:
         return [record['id'] for record in r['items']]
 
     def __process(self):
-        for record in self.records:
-            MODS(record)
+        for record in tqdm(self.records):
+            mods = MODS(record)
+            mods.download()
 
 
 class MODS:
@@ -57,8 +59,8 @@ class MODS:
         with open(f'output/{self.pid.replace(":", "_")}.xml', 'w') as my_mods:
             my_mods.write(self.final_mods)
 
+
 if __name__ == "__main__":
-    # collection = "https://digital.lib.utk.edu/static/iiif/collections/rfta_completed.json"
-    # x = OAIGenerator(collection)
-    mods = MODS('https://digital.lib.utk.edu/assemble/manifest/rfta/6')
-    mods.download()
+    collection = "https://digital.lib.utk.edu/static/iiif/collections/rfta_completed.json"
+    x = OAIGenerator(collection)
+
