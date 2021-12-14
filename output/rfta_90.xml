@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200514_Johnson_Kelly</identifier>
+   <identifier type="pid">rfta:90</identifier>
+   <titleInfo>
+      <title>Interview with Kelly Johnson, 2020-05-14</title>
+   </titleInfo>
+   <abstract>Interview with Kelly Johnson, owner of the Alamo and other restaurants in Gatlinburg. Johnson discusses the events of the fire as someone outside of Gatlinburg at the time, and the tragedy of losing her restaurant. She also discusses the recovery efforts after the fire. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "You have that weird hope, where like, maybe it was the smoke coming from down the mountain, maybe--but you sort of know in your heart, okay, the building's on fire. But I knew the sprinklers were going off, so of course at the same time you're like, okay, maybe it's a small fire or maybe thesprinklers will put it out, and you sort of cling to hope, which is ridiculous, but you don't really have any other information."</abstract>
+   <name>
+      <namePart>Johnson, Kelly</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Benedetto Beals, Jennifer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-05-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:35:31</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Business owners and staff</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85113262">
+      <topic>Restaurateurs</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Kelly Johnson, 2020-05-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>You have that weird hope, where like, maybe it was the smoke coming from down the mountain, maybe--but you sort of know in your heart, okay, the building's on fire. But I knew the sprinklers were going off, so of course at the same time you're like, okay, maybe it's a small fire or maybe thesprinklers will put it out, and you sort of cling to hope, which is ridiculous, but you don't really have any other information.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:45"
+                            endTime="00:01:30">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us a little about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:30"
+                            endTime="00:02:03">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you first come to East Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:03"
+                            endTime="00:03:03">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have additional family members in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:03"
+                            endTime="00:04:24">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the days leading up to the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:24"
+                            endTime="00:04:57">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long before then had you heard about the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:57"
+                            endTime="00:06:02">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>It was the smoke on that Monday that let you know about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:02"
+                            endTime="00:08:59">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What happened after sending your employees home and when did you become concerned?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:59"
+                            endTime="00:11:13">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you do next after receiving phone calls about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:13"
+                            endTime="00:14:46">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After learning about the fate of your restaurant from the news coverage, what did you do next?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:46"
+                            endTime="00:15:49">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were the surrounding buildings also burned?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:49"
+                            endTime="00:18:04">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this loss impact you financially?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:04"
+                            endTime="00:19:25">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you assess the recovery efforts in general?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:25"
+                            endTime="00:20:36">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you think the fire shaped community relations or changed the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:36"
+                            endTime="00:22:07">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think there are still rifts in the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:07"
+                            endTime="00:23:09">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did any of your employees lose their homes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:09"
+                            endTime="00:24:10">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did any of these employees leave East Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:10"
+                            endTime="00:25:30">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you made any provisions in case of another disaster?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:30"
+                            endTime="00:26:48">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did anything positive come out of this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:48"
+                            endTime="00:28:56">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel that it impacted you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:56"
+                            endTime="00:29:49">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did the surrounding area that was damaged get rebuilt?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:49"
+                            endTime="00:30:46">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to say that we haven't covered?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:46"
+                            endTime="00:33:21">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you ever have interviews with the press?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:21"
+                            endTime="00:35:31">
+            <pbcore:pbcoreIdentifier source="local">20200514_Johnson_Kelly_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were people in the community excited to see the Alamo reopen?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/kelly-johnson-2020-05-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:90/datastream/TN/view</url>
+   </location>
+</mods>

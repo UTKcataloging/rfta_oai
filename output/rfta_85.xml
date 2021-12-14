@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200423_Miller_Andy</identifier>
+   <identifier type="pid">rfta:85</identifier>
+   <titleInfo>
+      <title>Interview with Andy Miller, 2020-04-23</title>
+   </titleInfo>
+   <abstract>Interview with Andrew Miller, professor with the School of Integrative Biology at the University of Illinois. Miller discusses the impact that the fire had upon the fungi of the Smoky Mountains and how the various species are recovering. He also elaborates on the role that fungi play in the forest, both in terms of nutrients in the soil and interacting with other organisms. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: this was a black morel that we found in a severely burned area. And it came up and  bodies there. We'd never found it in the park before, ever, probably because no one's look for it after a fire, and it came up all over the place. And we went back again in 2018, a year later, and never found one fruiting body ever. So it was one of those that just fruited once after the fire and then it was done.</abstract>
+   <name>
+      <namePart>Miller, Andy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-04-23</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79049104">University of Illinois (Urbana-Champaign campus)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:31:33</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Fire and forestry experts</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089188">
+      <topic>Mycology</topic>
+   </subject>
+   <note displayLabel="Browse">Ecology</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85050620">
+      <topic>Forest regeneration</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Andy Miller, 2020-04-23</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>this was a black morel that we found in a severely burned area. And it came up and  bodies there. We'd never found it in the park before, ever, probably because no one's look for it after a fire, and it came up all over the place. And we went back again in 2018, a year later, and never found one fruiting body ever. So it was one of those that just fruited once after the fire and then it was done.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:32"
+                            endTime="00:01:03">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us your relation to the university?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:03"
+                            endTime="00:02:37">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about how you got started at the university and your area of interest for research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:37"
+                            endTime="00:03:43">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What research were you involved in when the fire came through Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:43"
+                            endTime="00:05:37">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the project that is associated with the grant that you and Dr. Hughes applied for?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:37"
+                            endTime="00:07:00">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your reaction when you first came back to the Smokies in 2017 and saw the burned areas?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:00"
+                            endTime="00:09:06">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were you hoping to find when you went in with your research project?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:06"
+                            endTime="00:11:03">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How were the species of fungi you were interested in different form the usual species visitors can find?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:03"
+                            endTime="00:14:24">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were these fungi that you were finding for th first time? Had they been there all this time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:24"
+                            endTime="00:15:53">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are these same fungi coming back up when you return after a year?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:53"
+                            endTime="00:17:34">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there anything that surprised you about the research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:34"
+                            endTime="00:18:55">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What is your next step in the research and developing your hypothesis at this point?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:55"
+                            endTime="00:20:12">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you expect there to be another forest fire like the one in 2016?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:12"
+                            endTime="00:21:30">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you explain what you consider the impact of your research is on your discipline's understanding?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:30"
+                            endTime="00:23:39">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What would you consider to be the public impact about this research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:39"
+                            endTime="00:24:45">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>If the forest's health depends upon these fungi, is a fire a good thing for the Smokies?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:45"
+                            endTime="00:26:33">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there any difference to the health of the Smokies if it's a small controlled fire versus a larger one like in 2016?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:33"
+                            endTime="00:28:47">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything about what you saw that surprised you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:47"
+                            endTime="00:31:33">
+            <pbcore:pbcoreIdentifier source="local">20200423_Miller_Andy_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anyting else that we haven't discussed that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/andy-miller-2020-04-23/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:85/datastream/TN/view</url>
+   </location>
+</mods>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191109_Sheets_Alan</identifier>
+   <identifier type="pid">rfta:33</identifier>
+   <titleInfo>
+      <title>Interview with Alan Sheets, 2019-11-09</title>
+   </titleInfo>
+   <abstract>Interview with Alan Sheets, an emergency responder with the American Red Cross. Sheets details the process of establishing a relief shelter during a crisis. He discusses the challenges posed by the fire in terms of how many were impacted and the initial chaos that needed to be addressed. He also praises the community for its ability to come together during this time with necessary donations and services. This is a representative quote from the interview: "I knew right away we weren't gonna have problems with people wanting to help. Because this is their community and this area has always been that kind of community that sticks together."</abstract>
+   <name>
+      <namePart>Sheets, Alan</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-11-09</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:40:01</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Recovery specialists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85042742">
+      <topic>Emergency housing</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/7248040">
+      <geographic>Pigeon Forge Community Center</geographic>
+      <cartographics>
+         <coordinates>35.8062593, -83.5847141</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225040">
+      <geographic>LeConte Wellness Center</geographic>
+      <cartographics>
+         <coordinates>35.8061703, -83.5810621</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n84161581">
+      <name>
+         <namePart>American Red Cross</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Alan Sheets, 2019-11-09</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I knew right away we weren't gonna have problems with people wanting to help. Because this is their community and this area has always been that kind of community that sticks together."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:53"
+                            endTime="00:02:33">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about how you got started working with the Red Cross and your history in east Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:05:15" endTime="00:05:45">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pigeon Forge Community Center</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pigeon Forge Community Center.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:33"
+                            endTime="00:03:32">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your role with the Red Cross?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:05:45" endTime="00:17:30">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>LeConte Wellness Center</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses LeConte Wellness Center.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:32"
+                            endTime="00:04:56">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where were you when you first heard about the wildfire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:56"
+                            endTime="00:06:04">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you see when you got to Pigeon Forge?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:04"
+                            endTime="00:06:35">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where is the LeConte Center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:35"
+                            endTime="00:08:03">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where the people already at the center tourists or locals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:03"
+                            endTime="00:09:07">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe the feeling at the center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:07"
+                            endTime="00:09:30">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time of day was this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:30"
+                            endTime="00:10:16">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the state people were in when arriving?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:16"
+                            endTime="00:10:52">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What does it look like when someone comes in suffering from shock?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:52"
+                            endTime="00:13:10">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How were you handling the chaos?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:10"
+                            endTime="00:15:08">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you stay through the night?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:08"
+                            endTime="00:16:40">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the phonecalls of people seeking lost family like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:40"
+                            endTime="00:18:08">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What happened the day after you arrived?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:08"
+                            endTime="00:19:30">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Red Cross designated the wildfire as a national disaster?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:30"
+                            endTime="00:20:34">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After the first two days, were you still involved in the event?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:34"
+                            endTime="00:22:48">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe what you saw at Rocky Top Sport Center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:48"
+                            endTime="00:23:58">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was it well organized?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:58"
+                            endTime="00:24:33">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you go into Gatlinburg at all?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:33"
+                            endTime="00:25:27">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you see while driving through Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:27"
+                            endTime="00:26:15">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You mentioned that the main street in Gatlinburg seemed untouched, but the outskirts were smoldering?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:15"
+                            endTime="00:27:46">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did this even have any effect on you emotionally?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:46"
+                            endTime="00:29:18">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long before you pulled back to headquarters located in Kodak?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:18"
+                            endTime="00:30:43">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long before you pulled back to headquarters located in Kodak?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:43"
+                            endTime="00:32:47">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the fire shape community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:47"
+                            endTime="00:34:04">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You mentioned that people had been vocal that the warnings should have been sooner, did you interact with any of these people?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:04"
+                            endTime="00:34:50">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When people were venting, what were they complaining about?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:50"
+                            endTime="00:37:01">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you thought about any provsions that should be made if a disaster happened again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:01"
+                            endTime="00:40:01">
+            <pbcore:pbcoreIdentifier source="local">20191109_Sheets_Alan_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/alan-sheets-2019-11-09/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:33/datastream/TN/view</url>
+   </location>
+</mods>

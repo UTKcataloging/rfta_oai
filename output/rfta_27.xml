@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191107_Matheny_Brandon</identifier>
+   <identifier type="pid">rfta:27</identifier>
+   <titleInfo>
+      <title>Interview with Brandon Matheny, 2019-11-07</title>
+   </titleInfo>
+   <abstract>Interview with Brandon Matheny, professor with the Ecology and Evolutionary Biology department of UT. Matheny discusses the effects of the fire upon fungi of the reason, particularly how it allows certain species to fruit and spread. He also touches upon the effects that climate change is having upon the region. This is a representative quote from the interview: "I was seeing some of the same fungi in this burn here in the Southeast as I had seen out west and read about being reported in Europe."</abstract>
+   <name>
+      <namePart>Matheny, Brandon</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Romans, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-11-07</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:34:35</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Fire and forestry experts</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089188">
+      <topic>Mycology</topic>
+   </subject>
+   <note displayLabel="Browse">Ecology</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Brandon Matheny, 2019-11-07</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I was seeing some of the same fungi in this burn here in the Southeast as I had seen out west and read about being reported in Europe."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:56"
+                            endTime="00:01:13">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us how long you have lived in Knoxville and east Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:13"
+                            endTime="00:02:17">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell me about your career path and role here at the University of Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:17"
+                            endTime="00:02:24">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So you moved to Knoxville when you joined UT?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:24"
+                            endTime="00:03:36">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some of your personal interests, or community involvement in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:36"
+                            endTime="00:05:37">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the focus of your research prior to the wildfires in 2016?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:37"
+                            endTime="00:07:26">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you remember from the time leading up to the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:26"
+                            endTime="00:12:13">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At what point did you know that the wildfires were impacting your research, or would provide a research opportunity?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:13"
+                            endTime="00:13:01">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your team mostly from UT and the area, or were they from all over the country?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:01"
+                            endTime="00:15:42">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like going into the park to conduct fieldwork after the fire? How was it different than in the past?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:42"
+                            endTime="00:17:05">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the similarities and differences between your fieldwork here and other locations you've worked in after fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:05"
+                            endTime="00:18:23">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the focus and the methodology of this research project in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:23"
+                            endTime="00:24:26">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the methodologies you used? What did the fieldwork look like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:26"
+                            endTime="00:26:05">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Has the project continued to evolve and develop as it has continued?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:05"
+                            endTime="00:27:28">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there ways you see to build upon this research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:28"
+                            endTime="00:30:20">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you consider to be the public impacts of your research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:20"
+                            endTime="00:32:35">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:35"
+                            endTime="00:34:35">
+            <pbcore:pbcoreIdentifier source="local">20191107_Matheny_Brandon_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you ever envision that something like this fire could've happened here, and could it happen again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/brandon-matheny-2019-11-07/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:27/datastream/TN/view</url>
+   </location>
+</mods>

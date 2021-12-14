@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200109_Bridgeman_Jacqueline</identifier>
+   <identifier type="pid">rfta:46</identifier>
+   <titleInfo>
+      <title>Interview with Jacqueline Bridgeman, 2020-01-09</title>
+   </titleInfo>
+   <abstract>Interview with Jacqueline Bridgeman, an emergency responder with the American Red Cross. Bridgeman recounts coming into Gatlinburg to manage a relief shelter and the steady realization about how sever the disaster was. She also discusses the challenges faced in gathering resources to serve the community and the difficulties in reaching certain branches of the community. This is a representative quote from the interview: "I heard a lot of stories and tried to reassure [the survivors]. There's still a lot of fire going on, we have all of these firetrucks. We have all of these resources. We're gonna help you, it may take a minute, but we will help you."</abstract>
+   <name>
+      <namePart>Bridgeman, Jacqueline</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95090100">
+      <namePart>Smith, Steven Escar, 1962-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-01-09</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>01:03:23</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>First responders</topic>
+   </subject>
+   <note displayLabel="Browse">Emergency Management</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85042742">
+      <topic>Emergency housing</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147560">
+      <topic>Women in charitable work</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12128430">
+      <geographic>Rocky Top Sports World</geographic>
+      <cartographics>
+         <coordinates>35.7330294, -83.447498</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n84161581">
+      <name>
+         <namePart>American Red Cross</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Jacqueline Bridgeman, 2020-01-09</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I heard a lot of stories and tried to reassure [the survivors]. There's still a lot of fire going on, we have all of these firetrucks. We have all of these resources. We're gonna help you, it may take a minute, but we will help you."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:15"
+                            endTime="00:01:55">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell me about how long you have been in Tennessee and your background?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:10:55" endTime="00:39:26">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rocky Top Sports World</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rocky Top Sports World.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:55"
+                            endTime="00:03:15">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about some of the organizations you volunteer with?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:15"
+                            endTime="00:04:35">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you been volunteering?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:35"
+                            endTime="00:05:20">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So volunteering comes from family experience?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:20"
+                            endTime="00:06:03">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some of the other events that you have helped with?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:03"
+                            endTime="00:07:00">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What's the longest you have ever been assigned to an event throught the Red Cross?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:00"
+                            endTime="00:13:06">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you learn about the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:06"
+                            endTime="00:21:50">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were the couple running the shelter Red Cross volunteers too?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:50"
+                            endTime="00:22:25">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Restates the established timeline</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:25"
+                            endTime="00:22:44">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long were you the manager on site?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:44"
+                            endTime="00:23:46">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did it take to get services to meet the survivors' needs?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:46"
+                            endTime="00:24:22">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>During the first night, had any areas been designated for specific purposes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:22"
+                            endTime="00:00:25:50">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long were you the only Red Cross representative at the site?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:25:50"
+                            endTime="00:27:10">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What does "DR" stand for?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:10"
+                            endTime="00:28:45">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you ever reunite with the couple you separated from when arriving in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:45"
+                            endTime="00:34:36">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did it take before you felt like things were beginning to settle at the facility?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:36"
+                            endTime="00:35:31">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you ever get an official count of how many people were serviced at the facility?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:31"
+                            endTime="00:37:52">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there enough room inside the facility for everyone?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:52"
+                            endTime="00:38:35">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did people get to the facility?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:38:35"
+                            endTime="00:38:42">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was this the main evacuation facility for the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:38:42"
+                            endTime="00:39:36">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were people still coming in when you left?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:36"
+                            endTime="00:42:05">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>In general, what are the major differences between this and other disasters you have been involved in?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:05"
+                            endTime="00:44:54">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you stayed in contact with any of the people you met?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:44:54"
+                            endTime="00:45:52">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you stayed in contact with any of the people you met?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:52"
+                            endTime="00:48:13">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After the first 4-5 day deployment, were you deployed again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:48:13"
+                            endTime="00:48:25">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you say there were dozens of Red Cross volunteers?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:48:25"
+                            endTime="00:51:13">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When the headquarters moved from Rocky Top, how far did it move?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:51:13"
+                            endTime="00:51:51">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there any point you felt that you were in danger because of the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:51:51"
+                            endTime="00:53:09">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did your involvement last?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:53:09"
+                            endTime="00:54:01">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you do with the donations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:54:01"
+                            endTime="00:55:48">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q31</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there lessons learned in this event that you'll use going forward?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:55:48"
+                            endTime="00:57:01">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q32</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have any further thoughts about the homeless population around Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:57:01"
+                            endTime="00:59:53">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q33</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you get a sense that any of those individuals were unaccounted for?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 33</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:59:53"
+                            endTime="01:03:23">
+            <pbcore:pbcoreIdentifier source="local">20200109_Bridgeman_Jacqueline_Q34</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there other thoughts that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 34</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/jacqueline-bridgeman-2020-01-09/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:46/datastream/TN/view</url>
+   </location>
+</mods>

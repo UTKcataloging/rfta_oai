@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200423_Odunayo_Adesola</identifier>
+   <identifier type="pid">rfta:86</identifier>
+   <titleInfo>
+      <title>Interview with Adesola Odunayo, 2020-04-23</title>
+   </titleInfo>
+   <abstract>Interview with Adesola Odunayo, clinical associate professor with the University of Tennessee College of Veterinary Medicine. Odunayo discusses the challenges of treating animals that were harmed during the wildfires. She also recounts seeing families reunited with their pets and the emotional impact of the experience. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: The local thing we did was using hyperbaric oxygen, which is a treatment where an animal is put into an oxygen chamber usually for an hour. And the whole goal of that is to try to just increase oxygen delivery to the wound and in theory that should kind of help accelerate healing of the wound in the tissues in the areas.</abstract>
+   <name>
+      <namePart>Odunayo, Adesola</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-04-23</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:29:38</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Medical personnel</topic>
+   </subject>
+   <note displayLabel="Browse">Medical Personnel &amp; First Responders</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006003257">
+      <topic>Animals--Effect of fires on</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85143015">
+      <topic>Veterinary critical care</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Adesola Odunayo, 2020-04-23</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>The local thing we did was using hyperbaric oxygen, which is a treatment where an animal is put into an oxygen chamber usually for an hour. And the whole goal of that is to try to just increase oxygen delivery to the wound and in theory that should kind of help accelerate healing of the wound in the tissues in the areas.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:07"
+                            endTime="00:02:02">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about your role at the university?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:02"
+                            endTime="00:03:09">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What is a typical day for you like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:09"
+                            endTime="00:05:15">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your experiences in the days and weeks leading up to the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:15"
+                            endTime="00:06:24">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like coming home after being in Japan during the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:24"
+                            endTime="00:06:59">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you returned, it sounds like the clinic had already started bringing in animals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:59"
+                            endTime="00:08:46">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any other facilities in the area that were providing critical care during this time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:46"
+                            endTime="00:09:14">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were any of the first responders bringing in animals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:14"
+                            endTime="00:10:25">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were some of the injuries that you were treating?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:25"
+                            endTime="00:11:54">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you able to use any past experiences in how to treat these animals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:54"
+                            endTime="00:13:57">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were some of the ways that you were able to treat the cats with severe burns?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:57"
+                            endTime="00:16:27">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about Topper the cat?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:27"
+                            endTime="00:17:13">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How were the cats able to recover from their burns? Did they have their pads removed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:13"
+                            endTime="00:18:29">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>For cats that weren't brought in by their owners, how did they get reunited?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:29"
+                            endTime="00:20:03">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there any research published based upon what was learned during this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:03"
+                            endTime="00:22:36">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What's the difference in cats being able to survive a fire versus other animals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:36"
+                            endTime="00:23:24">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the experience like when you saw families reunite with their pets?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:24"
+                            endTime="00:25:12">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there any emotional impact for you in seeing and dealing with these animals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:12"
+                            endTime="00:26:06">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you provided with any counseling from the university?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:06"
+                            endTime="00:27:12">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Dealing with 18 cats at once, how were those costs managed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:12"
+                            endTime="00:28:41">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you know if there was an emotional impact on the cats?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:41"
+                            endTime="00:29:38">
+            <pbcore:pbcoreIdentifier source="local">20200423_Odunayo_Adesola_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that we haven't talked about that you would like to mention?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/adesola-odunayo-2020-04-23/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:86/datastream/TN/view</url>
+   </location>
+</mods>

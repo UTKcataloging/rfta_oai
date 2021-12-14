@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20211013_Bales_Stephen_Lyn</identifier>
+   <identifier type="pid">rfta:170</identifier>
+   <titleInfo>
+      <title>Interview with Stephen Lyn Bales, 2021-10-13</title>
+   </titleInfo>
+   <abstract>Interview with Stephen Lyn Bales, Gatlinburg native, naturalist and writer, who speaks of his experiences of growing up in the Gatlinburg area.  Bales reflects on his childhood and ancestral ties to Gatlinburg, as well as the emotional impact of the Chimney Tops 2 Wildfires of 2016. This is a representative quote from the interview: "All I really lost are the fountainhead of my memories, everything.  But I still have the memories.  And now they’ve been recorded."</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n2006057276">
+      <namePart>Bales, Stephen Lyn</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95090100">
+      <namePart>Smith, Steven Escar, 1962-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2021-10-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:49:49</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) not directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85090273">
+      <topic>Naturalists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2015000490">
+      <topic>Nature Writers</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject  authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Stephen Lyn Bales, 2021-10-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"All I really lost are the fountainhead of my memories, everything.  But I still have the memories.  And now they’ve been recorded."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:56"
+                            endTime="00:03:19">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You grew up in Gatlinburg and then came to Knoxville when you were goinig to college, right?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:19"
+                            endTime="00:04:49">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you tell us a little bit about your family heritage background?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:49"
+                            endTime="00:06:09">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So did you grow up with an outdoor tradition? Were you always outdoors? Did you enjoy the natural area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:09"
+                            endTime="00:07:34">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you do a lot of camping in your youth? Was that a part of your experience?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:34"
+                            endTime="00:10:00">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And I'm just wondering, from you perspective as a naturalist, your reflections on the changes in Sevier County and that part of the world.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:00"
+                            endTime="00:11:03">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tremendous changes to the physical built environment, correct?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:03"
+                            endTime="00:21:43">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you remember the days leading up to the fires, or maybe that summer?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:43"
+                            endTime="00:29:50">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You mentioned other buildings on your family property, were those leveled, too? Were those burned as well?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:50"
+                            endTime="00:30:17">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So it was a very dry fall, and many people in Knoxville recall smelling fires through that late summer and early fall. Do you remember any of that?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:17"
+                            endTime="00:34:53">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And as a naturalist, have you had occasion to think about the natural environment and the place of wildfires in the natural environment and this particular tragedy and just sort of contemplate that as a natural sort of experience or not?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:53"
+                            endTime="00:37:57">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you had occasion to make other visits back to your, back to the property that your family owned, that you know, where the house was? Do you know have they rebuilt or anything? </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:57"
+                            endTime="00:40:07">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there fires growing up occassionally? Were there wild fires in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:40:07"
+                            endTime="00:41:48">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>It must have been a really emotional time waiting for word those several days.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:48"
+                            endTime="00:45:32">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you, have you had occasion to speak with other close friends or, or family in addition to your sister who, who had connections to the area? And if so, any thoughts about their experiences, how they were similar to your own or different from your own or?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:32"
+                            endTime="00:49:49">
+            <pbcore:pbcoreIdentifier source="local">20211013_Bales_Stephen_Lyn_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else you'd like to add or any other thoughts or any topics you'd like to talk about that I haven't touched on?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/stephen-lyn-bales-2021-10-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:170/datastream/TN/view</url>
+   </location>
+</mods>

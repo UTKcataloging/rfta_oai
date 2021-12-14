@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2021_03_11_Henriquez_Billy</identifier>
+   <identifier type="pid">rfta:166</identifier>
+   <titleInfo>
+      <title>Interview with Billy Henriquez, 2021-03-11</title>
+   </titleInfo>
+   <titleInfo lang="spa">
+      <title>Entrevista con Billy Henriquez, 2021-03-11</title>
+   </titleInfo>
+   <abstract>In this interview Billy Henriquez, a Honduran immigrant and Gatlinburg resident since 2008, tells the story of his family’s experience with the Chimney Tops wildfires that burned down his home. 
+      Billy talks about the shock that ensued after realizing his family no longer had a home to come back to, and the displacement of the Hispanic community that forced many to leave Tennessee. Billy describes 
+      the surprising good that came out of the incident which made him and other Hispanic residents feel like they were seen as actual members of the community. This is a representative quote from the interview: 
+      "most of the people that helped me, I didn't know them. And that's something I will never forget, that, genuine affection that they had for us, that despite us being foreigners, they acknowledged us as a 
+      part, of their community."
+   </abstract>
+   <abstract lang="spa">En esta entrevista Billy Henriquez, inmigrante Hondureño y residente de Gatlinburg desde el 2008, cuenta la historia de la experiencia que tuvo su familia con los incendios forestales de 
+      Chimney Tops que quemaron su casa. Billy habla sobre el shock que siguió después de darse cuenta de que su familia ya no tenia un hogar al cual regresar, y el desplazamiento de la comunidad Hispana que 
+      obligo a muchos a irse de Tennessee. Billy describe lo bueno que sorprendentemente sucedió debido al incidente que hizo que el y otros residentes Hispanos se sintieran como miembros verdaderos de la 
+      comunidad. Esta es una cita representativa de la entrevista: "la mayoría de la gente que me ayudo a mí, no los conocía. Y eso jamás lo voy olvidar pues ese, cariño genuino que tuvieron por
+      nosotros, que a pesar de ser extranjeros, nos tomaban como parte, de su comunidad."</abstract>
+   <name>
+      <namePart>Henriquez, Billy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Rivera, Christian David</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2021-03-11</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:28:37</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+      <topic>Immigrants</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93004894">
+      <topic>Hondurans</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
+      <topic>COVID-19 Pandemic, 2020-</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Dollywood and Pigeon Forge</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4634946">
+      <geographic>Knoxville</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/3600949">
+      <geographic>Tegucigalpa, Honduras</geographic>
+      <cartographics>
+         <coordinates>14.0818, -87.20681</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649150/">
+      <geographic>Pi Beta Phi Elementary School</geographic>
+      <cartographics>
+         <coordinates>35.71176, -83.51211</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624449">
+      <geographic>Gatlinburg-Pittman High School</geographic>
+      <cartographics>
+         <coordinates>35.73482, -83.44794</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4604255">
+      <geographic>Baskins Creek</geographic>
+      <cartographics>
+         <coordinates>35.71343, -83.51266</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12358609">
+      <geographic>Cherokee Orchard Road</geographic>
+      <cartographics>
+         <coordinates>35.69446, -83.50457</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649251">
+      <geographic>Pigeon Forge</geographic>
+      <cartographics>
+         <coordinates>35.78842, -83.55433</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4635130">
+      <geographic>Rocky Top</geographic>
+      <cartographics>
+         <coordinates>36.21786, -84.15465</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4597040">
+      <geographic>South Carolina</geographic>
+      <cartographics>
+         <coordinates>34.00043, -81.00009</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">Spanish</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Billy Henriquez, 2021-03-11</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>La mayoría de la gente que me ayudo a mí, no los conocía. Y eso jamás lo voy olvidar pues ese, cariño genuino que tuvieron por nosotros, que a pesar de ser extranjeros, nos tomaban como parte, de su comunidad.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:00:51"
+            endTime="00:01:07">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Bueno para empezar vamos a pedir que por favor te introduzcas, diciéndonos tu nombre.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:51"
+                            endTime="00:01:07">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Well to begin, we're going to ask that you please introduce yourself, by telling us your name.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:14" endTime="00:01:17">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Knoxville</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Knoxville.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:07"
+                            endTime="00:01:35">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Por cuanto tiempo vivistes en Gatlinburg? Todavia estas viviendo en Gatlinburg o a donde estas ahora? 
+            </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:07"
+            endTime="00:01:35">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did you live in Gatlinburg? Are you still living in Gatlinburg or where are you now?
+            </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:49" endTime="00:01:53">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tegucigalpa, Honduras</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Tegucigalpa, Honduras.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:35"
+                            endTime="00:03:02">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y tienes familia en Gatlinburg? Como llegaste a Gatlinburg, de donde eres originalmente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:35"
+            endTime="00:03:02">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And do you have family in Gatlinburg? How did you arrive to Gatlinburg, where are you originally from?
+            </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:57" endTime="00:02:01">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pi Beta Phi Elementary School</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pi Beta Phi Elementary School.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:03:02"
+                            endTime="00:04:04">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Okay y nos puedes contar un poco sobre la parte de Gatlinburg en la que vivias verdad antes de que pasaran los incendios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:03:02"
+            endTime="00:04:04">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Okay and can you tell us a little about the part of Gatlinburg you lived in before the fires happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:02:01" endTime="00:02:05">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Gatlinburg-Pittman High School</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Gatlinburg-Pittman High School.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:04:04"
+            endTime="00:05:25">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, antes de que empezaran los incendios, tu ya habias escuchado algo sobre, sobre lo que estaba pasando digamos esa semana? Habias escuchado si, si de tus papás o tu dónde estabas cuando escuchastes que posiblemente algo estaba pasando?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:04:04"
+            endTime="00:05:25">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, before the fires began, had you already heard something about, about what was going on that week? Had you heard from, from your parents or where were you when you heard that there was something possibly going on?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:03:14" endTime="00:03:18">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Baskins Creek</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Baskins Creek.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:05:25"
+                            endTime="00:06:17">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, cuando dices verdad que, que habías escuchado verdad que sí que había humo. Habías escuchado algún reporte sobre esto en las noticias o, o la ciudad? Algun mensaje o, o no?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:05:25"
+            endTime="00:06:17">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, when you say that, that you had heard that there was smoke. Had you heard a report about this on the news or, or the city? Some sort of message or, or no?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:03:24" endTime="00:03:25">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Cherokee Orchard Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Cherokee Orchard Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:06:17"
+                            endTime="00:07:26">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y en qué momento fue cuando te empezastes a preocupar por lo que estaba pasando, o por lo que podía pasar posiblemente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:06:17"
+            endTime="00:07:26">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And what was the moment that you started to worry about what was going on, or what could possibly happen?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:03:28" endTime="00:03:34">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Baskins Creek</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Baskins Creek.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:07:26"
+                            endTime="00:08:21">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, cuando tus papas evacuaron verdad. Cómo fue la experiencia verdad después de la de la evacuación. Mientras ellos estaban esperando que, los dejaran entrar a la ciudad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:07:26"
+            endTime="00:08:21">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, when your parents evacuated. What was the experience like after the evacuation. While they were waiting to be, allowed back into the city?
+            </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:08:54" endTime="00:08:57">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pigeon Forge</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pigeon Forge.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:08:21"
+                            endTime="00:09:44">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y durante este tiempo verdad, de la evacuación y estaban esperando, de qué manera verdad, te, te estabas manteniendo en contacto con tu familia? Fue puramente redes sociales o, o como verdad mantuviste contacto?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:08:21"
+            endTime="00:09:44">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And during this time of the, of the evacuation and you all waiting, in what ways were you, were you keeping in touch with your family? Was it purely through social networks or, or how did you maintain contact?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:10:49" endTime="00:10:53">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rocky Top.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:09:44"
+                            endTime="00:11:20">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle> Y nos puedes describir como fue regresar a Gatlinburg después de los incendios? Y, y digamos ver a, ver la casa verdad, ver a los vecinos por primera vez. Digamos regresar a, a tratar de, de integrarse otra vez en la ciudad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:09:44"
+            endTime="00:11:20">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And can you describe to us what it was like to return to Gatlinburg after the fires? And, and see the house, see the neighbors for the first time. Going back to try and integrate into the city again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:16:24" endTime="00:16:28">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Sevierville</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Sevierville.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:11:20"
+                            endTime="00:13:14">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, aunque no estabas verdad en, en Gatlinburg mientras eso estaba pasando verdad los incendios. Como evaluarías tú, los esfuerzos de rescate, que trataron de ayudar o digamos, los primeros auxilios, los oficiales de la ciudad, FEMA? Piensas que, hicieron un buen trabajo, hubieron, habrían hecho mas o, como te sientes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:11:20"
+            endTime="00:13:14">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, even though you weren't in, in Gatlinburg while the fires were happening. How would you evaluate the rescue efforts, that tried to help or let's say the, first aid, the city ​​officials, FEMA? Do you think they, did a good job, should they have done more or, how do you feel?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:16:45" endTime="00:16:49">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_G11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>South Carolina</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses South Carolina.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:13:14"
+                            endTime="00:15:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y emocionalmente, cómo te impactó a ti y a tu familia, los incendios verdad y todo lo que pasó?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:13:14"
+            endTime="00:15:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And emotionally, how did this impact you and your family, the fires and everything that happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:15:31"
+                            endTime="00:17:53">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, digamos, aunque tu verdad estabas estudiando en la Universidad, y trabajando un trabajo que estaba Knoxville. Cómo crees que, afectaron los incendios posiblemente a ti, a tu familia, económicamente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:15:31"
+            endTime="00:17:53">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, even though you were studying at the University, and working a job that was in Knoxville. How do you think the fires possibly affected you, your family, financially?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:17:53"
+                            endTime="00:20:21">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Entiendo, y desde tu punto de vista, cómo influyeron los los incendios verdad, las relaciones comunitarias, en Gatlinburg? Se que ya mencionaste verdad un poco de eso pero, digamos, qué tipo de, de impacto tuvo este incidente verdad en las relaciones comunitarias y también específicamente, en la comunidad Hispana?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:17:53"
+            endTime="00:20:21">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>I understand, and from your point of view, how did the fires influence, the community relations, in Gatlinburg? I know you already mentioned a little bit about that but, what kind of, impact did this incident have on community relations and also specifically, on the Hispanic community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:20:21"
+                            endTime="00:20:59">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Dirías que, la ayuda que, que recibieron verdad y que, que la gente estaba dando, fue lo más sorprendente, lo más sorprendente, de lo que pasó verdad, del incidente fue la ayuda?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:20:21"
+            endTime="00:20:59">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you say that, the help that, was received and that people were giving, was the most surprising, the most surprising, thing that came from the incident was the help?
+            </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:20:59"
+                            endTime="00:21:45">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y desde que pasó eso, verdad, sabes si, si tu familia verdad ha hecho algún plan o, o ha pensado verdad, si algo similar vuelve a pasar, verdad que van a hacer, o se sienten más preparados ahora?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:20:59"
+            endTime="00:21:45">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And since this happened, do you know if, if your family has made some sort of plan or, or has thought about, if something similar happens again, what they are going to do, or do they feel more prepared now?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:21:45"
+            endTime="00:23:54">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y también verdad los incendios tuvieron un impacto grave en la comunidad Hispana. Y ahora este último año verdad, hemos estando lidiando con la pandemia de Covid-19. Nos puedes comentar un poco verdad en, como la pandemia te ha afectado a ti a tu familia, a la comunidad.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:21:45"
+            endTime="00:23:54">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And the fires also had a serious impact on the Hispanic community. And now this past year we have been dealing with the Covid-19 pandemic. Can you tell us a little about how the pandemic has affected you, your family, the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:23:54"
+            endTime="00:26:21">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y mencionaste verdad, anteriormente que la parte en la que vivían antes, verdad la casa que se quemo, habian bastantes Hondureños viviendo ahi. Puedes hablar un poco de, de cómo afectó verdad los incendios a, a la vivienda en Gatlinburg? Y el trabajo digamos tal vez específicamente para, para la comunidad Hispana verdad que se sabe que normalmente, tienen verdad su propio, su propio lugar en Gatlinburg. Cómo afectó verdad los incendios a, a la vivienda?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:23:54"
+            endTime="00:26:21">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And earlier you mentioned that the area in which, in which you all lived before, the house that burned down, there were a lot of Hondurans living there. Can you speak a little about how, how the fires affected the, the housing in Gatlinburg? And jobs maybe specifically for the, the Hispanic community which is known to usually have, they have their own, their own area in Gatlinburg. How did the fires affect housing?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:26:21"
+            endTime="00:28:37">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_esQ19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>En todo verdad lo que pasó durante los incendios después de los incendios. Hay alguna memoria o alguna historia, que en tu cabeza verdad siempre, siempre está ahí o siempre, piensas verdad en esa historia? Algo que, que nunca vas a poder olvidar. Si sea tu historia o la de alguien más o, hay alguna memoria?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:26:21"
+            endTime="00:28:37">
+            <pbcore:pbcoreIdentifier source="local">2021_03_11_Henriquez_Billy_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Amongst all that happened during the fires, after the fires. Is there any memory or story, that in your head is always, always there or you always think about that specific story? Something that, that you will never be able to forget. Whether it's your story or someone else's or, any memory?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/billy-henriquez-2021-03-11/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:166/datastream/TN/view</url>
+   </location>
+</mods>

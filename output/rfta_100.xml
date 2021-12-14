@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200612_Moerman_Jessica</identifier>
+   <identifier type="pid">rfta:100</identifier>
+   <titleInfo>
+      <title>Interview with Jessica Moerman, 2020-06-12</title>
+   </titleInfo>
+   <abstract>Interview with Dr. Jessica Moerman conducted by Casey Kaufman. Moerman discusses the loss of her family cabin in Gatlinburg, and then outlines the effects of climate change that are impacting the community and leading to these disasters. Conducted over Zoom due to the COVID-19 pandemic.  This is a representative quote from the interview: "This is what I love about climate solutions is they really are benefit multipliers. So not only by looking at renewable energy sources, we're not only fighting reducing the amount of heat trapping gases that go into the atmosphere that fuel this extreme weather. We're also reducing pollution right there in our local communities because those same fossil fuel ources also put out tremendous amounts of pollution, soot, that damages our lungs, gives asthma, heart disease."</abstract>
+   <name>
+      <namePart>Moerman, Jessica</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-06-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:46:53</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Meteorologists</topic>
+   </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
+      <topic>Climatic changes</topic>
+   </subject>
+   <note displayLabel="Browse">Ecology</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Jessica Moerman, 2020-06-12</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>This is what I love about climate solutions is they really are benefit multipliers. So not only by looking at renewable energy sources, we're not only fighting reducing the amount of heat trapping gases that go into the atmosphere that fuel this extreme weather. We're also reducing pollution right there in our local communities because those same fossil fuel ources also put out tremendous amounts of pollution, soot, that damages our lungs, gives asthma, heart disease.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:56"
+                            endTime="00:05:25">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you state your name and share some about your background?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:25"
+                            endTime="00:05:25">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your family's history with Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:25"
+                            endTime="00:11:08">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Will you tell us about your career as a climate scientist and the work you do now at Creation Care?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:08"
+                            endTime="00:18:23">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the Summer and Fall in 2016 like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:23"
+                            endTime="00:19:39">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you been back to the area since the wildfire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:39"
+                            endTime="00:27:08">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you assess the recovery effort from Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:08"
+                            endTime="00:29:57">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there other impacts of climate change that people might be seeing in the East Tennessee region?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:57"
+                            endTime="00:34:51">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What is your assessment of both the public perception of this being a climate fueled event and climate change in general in the East Tennessee region?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:51"
+                            endTime="00:42:41">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You talked about what local governments can do for climate change, what can individuals do?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:41"
+                            endTime="00:45:57">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the personal impact of the event on you and your work?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:57"
+                            endTime="00:46:53">
+            <pbcore:pbcoreIdentifier source="local">20200612_Moerman_Jessica_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything we haven't talked about that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/jessica-moerman-2020-06-12/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:100/datastream/TN/view</url>
+   </location>
+</mods>

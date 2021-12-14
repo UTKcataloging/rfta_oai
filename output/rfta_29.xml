@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191109_Childs_Michelle</identifier>
+   <identifier type="pid">rfta:29</identifier>
+   <titleInfo>
+      <title>Interview with Michelle Childs, 2019-11-09</title>
+   </titleInfo>
+   <abstract>Interview with Michelle Childs, professor with the Retail, Hospitality, and Tourism Management department of UT. Childs discusses the effects of the wildfire on the businesses in Gatlinburg primarily over an extended time frame. She talks about the preparedness of businesses with contacting employees during the fire and in terms of insurance coverage. She also elaborates on the initial return of tourists to the area, and the steady recovery of the area. This is a representative quote from the interview: "What was really interesting because likely its such a small, tightknit community that those personal stories were really intertwined with the business stories."</abstract>
+   <name>
+      <namePart>Childs, Michelle</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-11-09</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:39:24</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Recovery specialists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85136255">
+      <topic>Tourism</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Michelle Childs, 2019-11-09</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"What was really interesting because likely its such a small, tightknit community that those personal stories were really intertwined with the business stories."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:52"
+                            endTime="00:01:03">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in East Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:03"
+                            endTime="00:01:35">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tell us a little about your career path and your role at the university?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:35"
+                            endTime="00:02:17">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your research in the area outside of the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:17"
+                            endTime="00:04:08">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the days leading up to the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:08"
+                            endTime="00:06:14">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about when you and your colleagues decided this would be a good research topic?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:14"
+                            endTime="00:08:59">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the scope of your research project and its methodologies?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:59"
+                            endTime="00:10:29">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tell us about the types of businesses that you focused on.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:29"
+                            endTime="00:17:32">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the interviews you conducted like and how long after the fire were they?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:32"
+                            endTime="00:18:43">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So social media played a large roll?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:43"
+                            endTime="00:26:22">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the differences you saw between local businesses and franchis businesses?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:22"
+                            endTime="00:28:51">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did some of the business owners question about whether to open again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:51"
+                            endTime="00:31:54">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How were the businesses able to bring tourism back?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:54"
+                            endTime="00:34:30">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did the business owner mention any other ways in which they were supported during recovery?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:30"
+                            endTime="00:36:41">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you find that people had begun making preparations in case something were to happen again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:36:41"
+                            endTime="00:37:46">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any other surprising aspects you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:46"
+                            endTime="00:39:18">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some impacts of your research on the disclipine's understanding of disaster preparedness?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:18"
+                            endTime="00:41:35">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about how this study will help the understanding of disasers and climate change?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:35"
+                            endTime="00:39:24">
+            <pbcore:pbcoreIdentifier source="local">20191109_Childs_Michelle_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Any thing else you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/michelle-childs-2019-11-09/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:29/datastream/TN/view</url>
+   </location>
+</mods>

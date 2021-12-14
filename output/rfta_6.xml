@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20190920_James_Zachary</identifier>
+   <identifier type="pid">rfta:6</identifier>
+   <titleInfo>
+      <title>Interview with Zachary James, 2019-09-20</title>
+   </titleInfo>
+   <abstract>Interview with Zachary James, student at the University of Tennessee Knoxville from Sevierville, Tennessee. James discusses his experience as a high school student in Sevierville during the time of the wildfires, including memories of classmates who were impacted, the closing of Sevier County schools, and the relief efforts. This is a representative quote from the interview: "Most of the people who lived in Gatlinburg were like, 'You should come down, see what happened, visit some of the areas that were affected.' Because a lot of these businesses depend on tourists."
+</abstract>
+   <name>
+      <namePart>James, Zachary</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Romans, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-09-20</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:18:14</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) not directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006007023">
+      <topic>Social media</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <note displayLabel="Browse">Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN</note>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Zachary James, 2019-09-20</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"Most of the people who lived in Gatlinburg were like, 'You should come down, see what happened, visit some of the areas that were affected.' Because a lot of these businesses depend on tourists."
+</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:44"
+                            endTime="00:01:04">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you state your name and where you're from?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:04"
+                            endTime="00:01:59">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us how long you have lived in Sevierville and what it was like growing up there?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:59"
+                            endTime="00:02:31">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Growing up, did you spend a lot of time going to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:31"
+                            endTime="00:03:33">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you talk about the week leading up to the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:33"
+                            endTime="00:04:38">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you and your friends concerned about the fire? Did that change when the wind started to pick up?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:38"
+                            endTime="00:06:16">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your family at any point preparing to evacuate?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:16"
+                            endTime="00:06:57">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You mentioned the news, was that how you were getting your information or were there other ways?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:57"
+                            endTime="00:07:23">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Once the power went out, how were getting updates?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:23"
+                            endTime="00:08:10">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you started preparing to evacuate, what were you concerned with taking?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:10"
+                            endTime="00:08:58">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So your plan was to evacuate to family in South Carolina? </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:58"
+                            endTime="00:09:51">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did it feel the next couple days? Did it still feel like you might need to evacuate?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:51"
+                            endTime="00:11:06">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like going back to school afterwards?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:06"
+                            endTime="00:12:04">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did your teachers address the aftermath?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:04"
+                            endTime="00:12:38">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was it something you and your friends talked about after?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:38"
+                            endTime="00:13:44">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel the fire has affected or shaped the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:44"
+                            endTime="00:14:50">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>From a younger person's perspective, how do you feel social media played a role during and after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:50"
+                            endTime="00:15:33">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you and your family talked about provisions in case something like this happens again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:33"
+                            endTime="00:16:32">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else you would like to add?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:32"
+                            endTime="00:18:14">
+            <pbcore:pbcoreIdentifier source="local">20190920_James_Zachary_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you talk some more about the types of community support you saw?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/zachary-james-2019-09-20/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:6/datastream/TN/view</url>
+   </location>
+</mods>

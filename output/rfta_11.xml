@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191013_Wellborn_Ruth</identifier>
+   <identifier type="pid">rfta:11</identifier>
+   <titleInfo>
+      <title>Interview with Ruth Wellborn, 2019-10-13</title>
+   </titleInfo>
+   <abstract>Interview with Ruth Wellborn, owner of Ely's Mill in Gatlinburg. Wellborn was in the Florida Keys during the day of the fire, and recounts her experience returning home after the disaster. She discusses personal recovery efforts as well as those by the city. She also discusses the feeling of a town that has to rebuild after a wildfire of this magnitude. This is a representative quote from the interview: "I contend that, you know, I had lots and lots of angels. You can say the power of positive thinking or whatever, but my official line is that I had angels."</abstract>
+   <name>
+      <namePart>Wellborn, Ruth</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Romans, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-10-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:34:38</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Business owners and staff</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85136255">
+      <topic>Tourism</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12123564">
+      <geographic>Ely's Mill</geographic>
+      <cartographics>
+         <coordinates>35.7161077, -83.4881917</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225042">
+      <geographic>Low Gap Road</geographic>
+      <cartographics>
+         <coordinates>35.7221239, -83.4831102</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Ruth Wellborn, 2019-10-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I contend that, you know, I had lots and lots of angels. You can say the power of positive thinking or whatever, but my official line is that I had angels."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:56"
+                            endTime="00:01:25">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us how long you have lived in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:04" endTime="00:07:54">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Ely's Mill</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Ely's Mill.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:25"
+                            endTime="00:04:26">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your life in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:14:42" endTime="00:15:39">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Low Gap Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Low Gap Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:26"
+                            endTime="00:07:03">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe your home and the part of town it is in?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:03"
+                            endTime="00:08:28">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the days leading up to the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:28"
+                            endTime="00:16:39">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So you were on a trip in Florida when you started hearing from people in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:39"
+                            endTime="00:18:20">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you able to communicate with anyone on your way back to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:20"
+                            endTime="00:19:51">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel social media played a role?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:51"
+                            endTime="00:23:38">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was the smoke different when you got back than when you left?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:38"
+                            endTime="00:25:01">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the responders using the mill as a staging area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:01"
+                            endTime="00:27:15">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about how the fire impacted your land?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:15"
+                            endTime="00:28:50">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you see the trend of people steadily returning continuing?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:50"
+                            endTime="00:30:53">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this event affect you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:53"
+                            endTime="00:32:06">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you made any provisions in case something like this happens again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions" startTime="00:32:06" endTime=" ">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wellborn_Ruth_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you feel that anything surprising or good came out of the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/ruth-wellborn-2019-10-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:11/datastream/TN/view</url>
+   </location>
+</mods>

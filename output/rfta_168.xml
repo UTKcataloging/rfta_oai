@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20210423_Jimenez_Janeth-Chavez_Eda</identifier>
+   <identifier type="pid">rfta:165</identifier>
+   <titleInfo>
+      <title>Interview with Janeth Jimenez and Eda Chavez, 2021-04-23</title>
+   </titleInfo>
+   <titleInfo lang="spa">
+      <title>Entrevista con Janeth Jimenez y Eda Chavez, 2021-04-23</title>
+   </titleInfo>
+   <abstract>In this interview Janeth Jimenez and Eda Chavez, both Honduran immigrants, each tell their personal experience of the Chimney Tops 2 wildfires. Janeth talks about the difficult decision of evacuating and leaving behind an entire lifetime of work unsure of whether her family would return to find ashes. While Eda Chavez, pastor of the Gatlinburg church “Jesús es la Puerta,” speaks about the struggle that arose from the desire to help as a leader of the Christian community and obstacles faced by the church and its members. This is  representative quote from the interview: "…we didn't want to leave, it's the love that you have for where, where you're living, you don't want to but seeing, the situation that was taking place getting serious. We decided to leave, when we decided to leave and go through Cherokee Orchard here in Gatlinburg, you couldn't go because the fire was intense. That's where the chaos comes in, the worry, the helplessness."</abstract>
+   <abstract lang="spa">En esta entrevista, Janeth Jimenez y Eda Chavez, ambas inmigrantes Hondureñas, cuentan su propia experiencia sobre los incendios forestales de Chimney Tops 2. Janeth habla sobre la difícil decisión de evacuar y dejar atrás toda una vida de trabajo sin saber si su familia regresaría a encontrar solo cenizas. Mientras que Eda Chavez, pastora de la “Iglesia Jesús es la Puerta,” de Gatlinburg habla de la lucha que supuso el deseo de ayudar como líder de la comunidad Cristiana y de los obstáculos a los que se enfrentaron la iglesia y sus miembros. Esta es una cita representativa de la entrevista: "…no no queríamos dejar la verdad es el amor que uno donde, donde está viviendo, no quiere pero al mirar la, la situación que se estaba dando que era ya grave. Decidimos salir cuando decidimos salir que íbamos agarrar por la Cherokee Orchard de acá de Gatlinburg, ya no se podía pasar porque el fuego ya era intenso. Es ahí donde viene el caos, la preocupación, la impotencia."</abstract>
+   <name>
+      <namePart>Jimenez, Janeth</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Chavez, Eda</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+            valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Rivera, Christian David</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2021-04-23</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>01:16:02</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+      <topic>Immigrants</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+      <topic>Immigrants</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93004894">
+      <topic>Hondurans</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
+      <topic>COVID-19 Pandemic, 2020-</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Dollywood and Pigeon Forge</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/3608932">
+      <geographic>Honduras</geographic>
+      <cartographics>
+         <coordinates>15, -86.5</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4634946">
+      <geographic>Knoxville</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12382191">
+      <geographic>Reagan Drive</geographic>
+      <cartographics>
+         <coordinates>35.70897, -83.51659</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12382193">
+      <geographic>Iglesia Jesús es la Puerta</geographic>
+      <cartographics>
+         <coordinates>35.70897, -83.51659</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12358609">
+      <geographic>Cherokee Orchard Road</geographic>
+      <cartographics>
+         <coordinates>35.69446, -83.50457</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649251">
+      <geographic>Pigeon Forge</geographic>
+      <cartographics>
+         <coordinates>35.78842, -83.55433</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">Spanish</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Janeth Jimenez and Eda Chavez, 2021-04-23</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"…we didn't want to leave, it's the love that you have for where, where you're living, you don't want to but seeing, the situation that was taking place getting serious. We decided to leave, when we decided to leave and go through Cherokee Orchard here in Gatlinburg, you couldn't go because the fire was intense. That's where the chaos comes in, the worry, the helplessness"</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:05"
+                            endTime="00:01:33">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>To begin, we are going to ask that, you introduce yourselves and state your name please.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:01:05"
+            endTime="00:01:33">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Para empezar, vamos a pedir que, se introduzcan y digan su nombre por favor.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:54" endTime="00:02:02">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Honduras</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Honduras.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:33"
+                            endTime="00:02:52">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Blessings, thank you very much. Question number 2 is, how long have you lived in Gatlinburg for and can you tell us a little about how you got to the area, and where you are originally from?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:01:33"
+            endTime="00:02:52">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Bendiciones muchas gracias. La pregunta número 2 es, por cuánto tiempo han vivido en Gatlinburg y nos pueden contar un poco de cómo llegaron al area, y de dónde son originalmente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:04:14" endTime="00:04:17">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Knoxville</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Knoxville.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:52"
+                            endTime="00:04:50">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Indeed thank you very much. And can tell us a little about, your life in Gatlinburg. In what, maybe what do you do for work, or, how do you find yourselves integrated in the community. Be it through work, through church. In what way do find yourselves to be a part of Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:02:52"
+            endTime="00:04:50">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>De acuerdo muchas gracias. Y nos pueden contar un poco de, de su vida en Gatlinburg. En que, tal vez en que trabajan, o, cómo se encuentran ustedes integradas en la comunidad. Sea por el trabajo, por la iglesia. En qué manera forman partes ustedes de Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:05:11" endTime="00:05:20">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Reagan Drive</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Reagan Drive.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:50"
+                            endTime="00:06:24">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Good. And can you tell us a little about the part of Gatlinburg you live in or perhaps lived in, in 2016 when the fires occurred?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:04:50"
+            endTime="00:06:24">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Bueno. Y nos pueden, hablar un poco sobre en qué parte de Gatlinburg viven ustedes o tal vez vivían, en el 2016 cuando ocurrieron los incendios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:05:51" endTime="00:05:54">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Iglesia Jesús es la Puerta</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Iglesia Jesús es la Puerta.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:24"
+                            endTime="00:13:52">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us a little about the days that preceded the fires. Or maybe that morning, before everything started, had you noticed smoke? Or had you heard any report in the news or any report made by the city?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:06:24"
+            endTime="00:13:52">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Nos pueden hablar un poco sobre los días que precedieron los incendios. O tal vez esa mañana, antes de que empezara todo verdad, ustedes habían notado humo? O habían escuchado ustedes algún reporte en las noticias o algún reporte hecho por la ciudad? </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:09:27" endTime="00:09:32">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Cherokee Orchard Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Cherokee Orchard Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:52"
+                            endTime="00:20:45">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle> During the entire process in which you realized, that there was a fire. Later when you started wondering. Should we leave our home? I think there were a lot of people, that, maybe did not take matters seriously. At what point did you, start to really to worry? When was it that the feeling of concern began. The concern of, there is a fire around me. At what point did this happen for you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:13:52"
+            endTime="00:20:45">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Durante todo verdad, el proceso en el que ustedes se dieron cuenta, de que había un incendio. Después verdad cuando empezaron a preguntarse. O sea, nos debemos de ir de nuestra casa? Creo que hubo mucha gente verdad, que, tal vez no se lo tomaron muy en serio. En qué momento ustedes, se empezaron a verdaderamente verdad, a preocupar? Cuándo fue que entró verdad, la sensación de preocupación. De que o sea, hay un incendio</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:17:29" endTime="00:17:34">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pigeon Forge</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pigeon Forge.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:45"
+                            endTime="00:32:38">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After the evacuation, where did you go? At the time of leaving Gatlinburg, did you head to Pigeon Forge to Sevierville? And also, while waiting to, be let back into the city. What was the feeling like, and how did you stay in contact with your family or friends? Was it through social networks? How did you feel, after the evacuation?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:20:45"
+            endTime="00:32:38">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Después de la evacuación verdad, para dónde se fueron ustedes? En el momento verdad de irse de Gatlinburg, se fueron ustedes para, para Pigeon Forge para Sevierville? Y también, mientras esperaban verdad, que las dejaran entrar de vuelta verdad a la ciudad. Cuál fue el sentimiento, y y cómo se mantuvieron ustedes en contacto con su familia o amigos? Fue manera de de de las redes sociales? Cómo se sintieron verdad, después de la evacuación?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:25:46" endTime="00:25:50">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_G7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Sevierville</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Sevierville.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:38"
+                            endTime="00:44:34">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And what was the experience like for you, after you went back to the city and realized that, you didn't lose anything, but maybe this person did lose something. What was the experience like to go back to work or, to open the church and go back to church, after all of this, had happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:32:38"
+            endTime="00:44:34">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y cómo fue para ustedes, la experiencia de, después verdad de que, volvieron a la ciudad y se dieron cuenta verdad, que, o sea no perdieron nada, o tal vez esta persona sí perdió algo. Cuál fue la experiencia, de volver al trabajo o, de nuevamente verdad abrir la iglesia y volver a ir a la iglesia, después de que todo esto, había ocurrido?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:44:34"
+                            endTime="00:48:53">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Okay, and now let's move on to the next question, that is going to be, how would you evaluate the rescue and relief efforts? For example, first aid, the city of Gatlinburg? I know you mentioned Dolly Parton, the Red Cross and FEMA was also there. In total, how would you evaluate the efforts that were made to help, and also to, alert people of what was happening?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:44:34"
+            endTime="00:48:53">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Okay, y ahora vamos a pasar a la siguiente pregunta, qué va a ser, cómo evaluarían, cómo, cómo evaluarían ustedes, los esfuerzos de rescate y ayuda? Por ejemplo, los primeros auxilios, la ciudad de Gatlinburg? Sé que mencionaron a Dolly Parton, también estuvo la Cruz Roja y FEMA. En total como evaluarían ustedes los esfuerzos que se hicieron para ayudar, y también para, alertar a la gente verdad de lo que estaba pasando?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:48:53"
+                            endTime="00:53:18">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, emotionally and as well as financially, in what way were you, or your families, impacted by the fires that happened in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:48:53"
+            endTime="00:53:18">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, emocionalmente y también económicamente, de qué manera les impactó, a ustedes o a sus familias, lo que ocurrió en Gatlinburg los incendios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:53:18"
+                            endTime="00:55:06">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Specifically, it could be, the Hispanic community, or the relationship between the Hispanic community and the American community. From your point of view, how did the fires, influence the relationships amongst the people of Gatlinburg? Between the different communities that exist.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:53:18"
+            endTime="00:55:06">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>En específicamente verdad, puede ser, o la comunidad Hispana, o la relación de la comunidad Hispana con la comunidad Americana. Desde su punto de vista verdad, cómo influyó, los incendios, las relaciones entre las personas en Gatlinburg? Entre las comunidades diferentes que hay.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:55:06"
+                            endTime="00:58:48">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And what kind of impact did this incident have, on specifically the Hispanic community? Because I know that, I grew up in Gatlinburg so I know a lot of the Hispanic community. And I know that, there is a portion of the community that is undocumented. And obviously, the culture is different from that of, American culture. How do you think that, the fires impacted specifically, the Hispanic community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:55:06"
+            endTime="00:58:48">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y qué tipo de impacto, tuvo este incidente, en específicamente la comunidad Hispana? Porque se verdad que, yo crecí en Gatlinburg entonces conozco mucha verdad gente de la comunidad Hispana. Y sé que, hay alguna porción de la comunidad que es indocumentada. Y obvio verdad, la cultura es diferente a la de, la cultura Americana. Cómo creen ustedes que, impactó específicamente los incendios, a la comunidad Hispana?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:58:48"
+                            endTime="01:02:03">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you thought of a plan? If something similar does happen again in the future?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="00:58:48"
+            endTime="01:02:03">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Han pensado ustedes en algún, plan? Sí algo similar vuelve a pasar en el futuro?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:02:03"
+                            endTime="01:03:15">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Amongst everything that has happened, is there something surprising, Or maybe, something good, that has resulted from, everything that happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="01:02:03"
+            endTime="01:03:15">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Entre todo lo que a pasado, hay algo sorprendente, o tal vez, algo bueno, que haya resultado de, de todo lo que pasó?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:03:15"
+                            endTime="01:10:00">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The fires had a serious impact on the Hispanic community. And now this last year we have had to deal with the covid-19 pandemic. Can you tell us, how the pandemic has impacted you? How has it impacted the Hispanic community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="01:03:15"
+            endTime="01:10:00">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Los incendios tuvieron un impacto grave en la comunidad Hispana. Y ahora este último año hemos tenido que lidiar con la pandemia de Covid-19. Nos pueden comentar, cómo la pandemia los a impactado a ustedes? Cómo a impactado a la comunidad Hispana?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:10:00"
+                            endTime="01:16:02">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And before concluding the interview, I wanted to ask or give you the space to. Allow you to talk, touch on a topic that we haven't touched on about the fires, or if you simply want to, send a message. Is there something you'd like to say?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+            startTime="01:10:00"
+            endTime="01:16:02">
+            <pbcore:pbcoreIdentifier source="local">20210423_Jimenez_Janeth-Chavez_Eda_esQ16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y antes de concluir la entrevista, les quería preguntar o darles el espacio para. Dejarles decir verdad si quieren tocar algún tema que no hemos tocado sobre los incendios, o simplemente quieren, mandar un mensaje. Hay algo que quieran decir?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/janeth-jimenez-and-eda-chavez-2021-04-23/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:168/datastream/TN/view</url>
+   </location>
+</mods>

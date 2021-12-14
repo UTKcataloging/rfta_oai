@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200924_Hitt_Mary_Anne</identifier>
+   <identifier type="pid">rfta:114</identifier>
+   <titleInfo>
+      <title>Interview with Mary Anne Hitt, 2020-09-24</title>
+   </titleInfo>
+   <abstract>Interview with Mary Anne Hitt, with the Sierra Club, conducted by Casey Kaufman. Hitt recounts the events of the fire as a concerned observer outside of the city due to her parents living in Gatlinburg. She also discusses how these fires are evidence of climate change and the work that she does confronting this global challenge. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "Living in Appalachia, [climate change] had never felt personal to me, and it was a life changing experience because I realize there's not a place that is going to be safe from climate change and we're not safe from it now. It's not just a problem for our grandchildren, it's a problem for us today and it's a problem for my child today."</abstract>
+   <name>
+      <namePart>Hitt, Mary Anne</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-09-24</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n84153123">Shepherdstown (W.Va.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:34:59</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Environmentalists</topic>
+   </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
+      <topic>Climatic changes</topic>
+   </subject>
+   <note displayLabel="Browse">Ecology</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85048479">
+      <topic>Fire ecology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147560">
+      <topic>Women in charitable work</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Mary Anne Hitt, 2020-09-24</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>Living in Appalachia, [climate change] had never felt personal to me, and it was a life changing experience because I realize there's not a place that is going to be safe from climate change and we're not safe from it now. It's not just a problem for our grandchildren, it's a problem for us today and it's a problem for my child today.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:57"
+                            endTime="00:01:31">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about your background?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:31"
+                            endTime="00:03:10">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What led you to your current career path?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:10"
+                            endTime="00:06:08">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What is your current work at the Sierra Club like? What about your past work at Appalachian Voices?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:08"
+                            endTime="00:07:51">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you remember about your personal experiences in the days and weeks leading up to the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:51"
+                            endTime="00:12:29">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What transpired when you heard about the fires sweeping through Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:29"
+                            endTime="00:16:26">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Shortly after the wildfires, you wrote an article about them. Can you tell us about the article and your thoughts in the following days?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:26"
+                            endTime="00:19:41">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you receive any feedback on the article that you published?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:41"
+                            endTime="00:27:12">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>In your professional work, can you tell us about the advocacy work that you do and the recommendations that you have for people in Appalachia or Sevier County on personal and local government levels?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:12"
+                            endTime="00:31:28">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What impact did this event have on your life, whether personal or professional?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:28"
+                            endTime="00:34:59">
+            <pbcore:pbcoreIdentifier source="local">20200924_Hitt_Mary_Anne_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that we haven't asked that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/mary-anne-hitt-2020-09-24/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:114/datastream/TN/view</url>
+   </location>
+</mods>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191213_Wereszczak_Leslie</identifier>
+   <identifier type="pid">rfta:39</identifier>
+   <titleInfo>
+      <title>Interview with Leslie Wereszczak, 2019-12-13</title>
+   </titleInfo>
+   <abstract>Interview with Leslie Wereszczak, small animal ICU supervisor for the UT College of Veterinary Medicine. Wereszczak discusses the treatment of victims from the fire, particularly cats. This includes the management of their pain as well as dressing burns mostly located on their footpads and faces.
+ This is a representative quote from the interview: "It was something that we never saw coming, and I don't know how we made it through that month. I really don't, but we did. It definitely changed me, for the good."</abstract>
+   <name>
+      <namePart>Wereszczak, Leslie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95090100">
+      <namePart>Smith, Steven Escar, 1962-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-12-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:45:05</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Medical personnel</topic>
+   </subject>
+   <note displayLabel="Browse">Medical Personnel &amp; First Responders</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85143015">
+      <topic>Veterinary critical care</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2006003257">
+      <topic>Animals--Effect of fires on</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Leslie Wereszczak, 2019-12-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"It was something that we never saw coming, and I don't know how we made it through that month. I really don't, but we did. It definitely changed me, for the good."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:00"
+                            endTime="00:02:03">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you share with us your background and how you got involved with UT?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:03"
+                            endTime="00:03:59">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have any sense about the fires and what was going to come?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:59"
+                            endTime="00:05:05">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have any experience with prior disasters?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:05"
+                            endTime="00:06:55">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe a typical day for you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:55"
+                            endTime="00:07:29">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What kinds of animals do you usually treat?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:29"
+                            endTime="00:08:23">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any responses to your initial social media post?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:23"
+                            endTime="00:10:43">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you get the first indication that you would be receiving patients?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:43"
+                            endTime="00:11:24">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any facilities similar to UT nearby that could offer aid?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:24"
+                            endTime="00:12:12">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is it part of the first responders protocol to look for animals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:12"
+                            endTime="00:13:14">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You also volunteered at a MASH like shelter in Gatlinburg?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:14"
+                            endTime="00:13:57">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>About how long after the icident were you volunteering at this shelter?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:57"
+                            endTime="00:14:13">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you volunteering before or after the first patients arrived at UT?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:13"
+                            endTime="00:16:18">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the animals you received, the first ones you received and the types of injuries and animals you were treating?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:18"
+                            endTime="00:16:52">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have prior experience with burn victims earlier in your career?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:52"
+                            endTime="00:19:58">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about Topper, the cat that received a lot of media attention?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:58"
+                            endTime="00:21:23">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long after Topper sustained his injuries did he receive treatment? Had he been on his own for some time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:23"
+                            endTime="00:21:43">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did Topper go to a triage unit after being found by first responders?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:43"
+                            endTime="00:22:54">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How many cats were treated at UT? How many survived?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:54"
+                            endTime="00:23:08">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were all the cats reunited with their owners?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:08"
+                            endTime="00:24:14">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you keep up with any of the cats? How are they doing?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:14"
+                            endTime="00:26:27">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You were pioneering burn treatments for animals during this time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:27"
+                            endTime="00:26:55">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What does wound debridement mean?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:55"
+                            endTime="00:28:17">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What caused the animals to have facial burns?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:17"
+                            endTime="00:29:07">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What caused the animals to have facial burns?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:07"
+                            endTime="00:29:51">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the pigs that survived through the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:51"
+                            endTime="00:31:23">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have there been networks develop about treating burn victims?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:23"
+                            endTime="00:32:35">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk more about the specialties different team members bring to treatment?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:35"
+                            endTime="00:33:02">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How large is the nursing staff?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:02"
+                            endTime="00:34:08">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you find yourself working overtime during this time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:08"
+                            endTime="00:34:32">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long was the period of intense activity?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:32"
+                            endTime="00:34:56">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q31</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Does the turnaround time speak to the quality of care provided by the staff?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:56"
+                            endTime="00:37:20">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q32</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was this expensive and how were those costs managed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:20"
+                            endTime="00:39:03">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q33</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there ways in which the unit has changed how it operates since then?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 33</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:03"
+                            endTime="00:39:21">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q34</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you had any burn patients since then?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 34</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:21"
+                            endTime="00:39:48">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q35</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there any suffering from smoke inhalation?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 35</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:48"
+                            endTime="00:40:57">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q36</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do the animals seemed to have healed from the emotional trauma?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 36</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:40:57"
+                            endTime="00:41:54">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q37</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Any observation about the social work team?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 37</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:54"
+                            endTime="00:42:41">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q38</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is the social work team part of the hospital? How large is it?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 38</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:41"
+                            endTime="00:45:05">
+            <pbcore:pbcoreIdentifier source="local">20191213_Wereszczak_Leslie_Q39</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to touch on?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 39</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/leslie-wereszczak-2019-12-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:39/datastream/TN/view</url>
+   </location>
+</mods>

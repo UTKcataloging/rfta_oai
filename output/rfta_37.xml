@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191212_Parker_Cara</identifier>
+   <identifier type="pid">rfta:37</identifier>
+   <titleInfo>
+      <title>Interview with Cara Parker, 2019-12-12</title>
+   </titleInfo>
+   <abstract>Interview with Cara Parker, social worker with the Helen Ross McNabb Center in Sevierville. Parker discusses the ways in the which the agency provided assistance to survivors of the fires, as well as elaborating on some common problems that these individuals and families faced. She also talks about how different facets of the community were brought together in addressing these needs. This is a representative quote from the interview: "The biggest way, from a mental health center perspective, is the decreased stigma for seeking mental health treatment."</abstract>
+   <name>
+      <namePart>Parker, Cara</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Romans, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-12-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:48:11</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Medical personnel</topic>
+   </subject>
+   <note displayLabel="Browse">Medical Personnel &amp; First Responders</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85124049">
+      <topic>Social service</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Cara Parker, 2019-12-12</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"The biggest way, from a mental health center perspective, is the decreased stigma for seeking mental health treatment."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:58"
+                            endTime="00:01:48">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in East Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:48"
+                            endTime="00:03:40">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you talk about what drew you to social work?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:40"
+                            endTime="00:04:23">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the Helen Ross-Mcnabb Center?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:23"
+                            endTime="00:05:32">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were your roles at the center before the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:32"
+                            endTime="00:06:59">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you share your impressions of Sevier County and the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:59"
+                            endTime="00:09:00">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you remember of the days leading up to the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:00"
+                            endTime="00:11:13">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did the center close any? When did people start coming in for fire related assistance?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:13"
+                            endTime="00:12:45">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Initially, were you only hearing from existing clients?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:45"
+                            endTime="00:14:15">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the discussions around applying for the grants?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:15"
+                            endTime="00:15:58">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Around January was when the grant took effect, what was your role?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:58"
+                            endTime="00:18:22">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Without specifics, what was it like meeting families in their homes? What was the vibe in the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:22"
+                            endTime="00:19:48">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you doing multiple trainings and bringing more people onto the team?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:48"
+                            endTime="00:21:59">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was the center seeing and increase or decrease from individuals seeking assistance?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:59"
+                            endTime="00:23:40">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the crisis programs and how they were an evolution of the process?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:40"
+                            endTime="00:25:12">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Around what time did you start shifting into educating the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:12"
+                            endTime="00:26:00">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did this community education look like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:00"
+                            endTime="00:27:11">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the community respond to this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:11"
+                            endTime="00:30:10">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What changes have you seen in the past years?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:10"
+                            endTime="00:33:13">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>For yourself as a mental health specialist, how has this affected your work?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:13"
+                            endTime="00:35:04">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some examples of ways that this shaped the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:04"
+                            endTime="00:35:46">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you feel that a lot of those connections that were made have remained?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:46"
+                            endTime="00:40:50">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>As someone who grew up in Southern Appalachia, what have you seen for the relationship between these people and mental health?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:40:50"
+                            endTime="00:43:06">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Had the Helen Ross McNabb Center prepared for disasters like this before the fire? How have preparations changed after?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:43:06"
+                            endTime="00:46:27">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Had the Helen Ross McNabb Center prepared for disasters like this before the fire? How have preparations changed after?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:46:27"
+                            endTime="00:48:11">
+            <pbcore:pbcoreIdentifier source="local">20191212_Parker_Cara_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/cara-parker-2019-12-12/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:37/datastream/TN/view</url>
+   </location>
+</mods>

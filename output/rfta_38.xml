@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191212_Schweitzer_Jennifer</identifier>
+   <identifier type="pid">rfta:38</identifier>
+   <titleInfo>
+      <title>Interview with Jennifer Schweitzer, 2019-12-12</title>
+   </titleInfo>
+   <abstract>Interview with Jennifer Schweitzer, professor with the Ecology &amp; Evolutionary Biology department of UT. Scweitzer discusses the effects of the fire upon the soil and plants in Gatlinburg. She specifies that the intensity and location, whether urban or natural, had an effect on the plantlife recovery. This is a representative quote from the interview: "One of the things that I think we're most excited and feel the biggest responsibility for in this research so far, is to show what these combined effects are, because that can help city managers plan. It can help natural resource managers plan about how to respond to these kinds of events.</abstract>
+   <name>
+      <namePart>Schweitzer, Jennifer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-12-12</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:30:18</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Fire and forestry experts</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2008005274">
+      <topic>Soils--Effect of fires on</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Jennifer Schweitzer, 2019-12-12</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"One of the things that I think we're most excited and feel the biggest responsibility for in this research so far, is to show what these combined effects are, because that can help city managers plan. It can help natural resource managers plan about how to respond to these kinds of events.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:53"
+                            endTime="00:01:07">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in Knoxville?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:07"
+                            endTime="00:01:40">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the research you do at the university?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:40"
+                            endTime="00:02:10">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have any interests in the area outside of your research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:10"
+                            endTime="00:03:10">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about when you first heard about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:10"
+                            endTime="00:03:45">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you do any research on some of the other fires that had broken out in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:45"
+                            endTime="00:04:19">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you and your colleagues do regular research in the Smokies?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:19"
+                            endTime="00:05:36">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you learn about the fire at the Chimney Tops and was anything odd about it?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:36"
+                            endTime="00:06:36">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your immediate reaction to learning about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:36"
+                            endTime="00:08:38">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you begin your research after the fire?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:38"
+                            endTime="00:10:02">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you elaborate on what made this fire unusual?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:02"
+                            endTime="00:10:36">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So the patchiness of the fire was unusual?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:36"
+                            endTime="00:11:11">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you look at any of the dynamics about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:11"
+                            endTime="00:13:22">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the research ideas that you started with?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:22"
+                            endTime="00:14:36">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about where the experimental plots were located? </pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:36"
+                            endTime="00:17:16">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you study about how the fire affected the manner in which plants and soils "talk" to each other?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:16"
+                            endTime="00:18:11">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have a specific project you are still working on in the Smokies?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:11"
+                            endTime="00:23:11">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any surprises that you have come across in your research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:11"
+                            endTime="00:24:02">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were plots that have been reclaimed by nature responded more like urban locations or natural ones?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:02"
+                            endTime="00:25:39">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe where your research is going and what some of the outcomes you expect for it are?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:39"
+                            endTime="00:26:54">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you consider is the public impact of this research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:54"
+                            endTime="00:28:05">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think this is a one off event?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:05"
+                            endTime="00:30:18">
+            <pbcore:pbcoreIdentifier source="local">20191212_Schweitzer_Jennifer_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/jennifer-schweitzer-2019-12-12/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:38/datastream/TN/view</url>
+   </location>
+</mods>

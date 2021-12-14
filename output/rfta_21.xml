@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191013_Wise_Ken</identifier>
+   <identifier type="pid">rfta:21</identifier>
+   <titleInfo>
+      <title>Interview with Ken Wise, 2019-10-13</title>
+   </titleInfo>
+   <abstract>Interview with Ken Wise, member of the Rising from the Ashes project and director for the Great Smoky Mountain Regional Project. Wise discusses the early signs of the fire and the role the wind played in the disaster. He also recounts the resurgence of life in the area following the wildfire. This is a representative quote from the interview: "The wind is blowing down the mountain, downstream of the Little Pigeon, and the mountain is now glowing. It looks sort of like a volcano with some heat in it, which we hadn't seen the other three times we'd been there."</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-10-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:28:32</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) not directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85060793">
+      <topic>Hiking</topic>
+   </subject>
+   <note displayLabel="Browse">Ecology</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject  authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4482056">
+      <geographic>Newfound Gap</geographic>
+      <cartographics>
+         <coordinates>35.6112063, -83.4248814</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4614210">
+      <geographic>Clingmans Dome</geographic>
+      <cartographics>
+         <coordinates>35.5627546, -83.4984981</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12218357">
+      <geographic>Bull Head Trail</geographic>
+      <cartographics>
+         <coordinates>35.67582, -83.48527</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>
+Interview with Ken Wise, 2019-10-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"The wind is blowing down the mountain, downstream of the Little Pigeon, and the mountain is now glowing. It looks sort of like a volcano with some heat in it, which we hadn't seen the other three times we'd been there."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:57"
+                            endTime="00:01:34">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell use some about your life?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:05:27" endTime="00:06:22">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Newfound Gap</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Newfound Gap.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:34"
+                            endTime="00:02:35">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your role at UT Libraries?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:06:22" endTime="00:09:44">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Clingmans Dome</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Clingmans Dome.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:35"
+                            endTime="00:03:25">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your relationship with Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:10:46" endTime="00:12:16">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Bull Head Trail</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Bull Head Trail.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:25"
+                            endTime="00:04:26">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about building the Great Smokie Mountain Regional Collection?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:26"
+                            endTime="00:12:59">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the days leading up to the wildfires?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:59"
+                            endTime="00:15:49">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe what some members of the community have shared?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:49"
+                            endTime="00:19:29">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you get the sense that people in the community believe this experience should be preserved?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:29"
+                            endTime="00:21:30">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you feel that there's a benefit to people sharing their stories?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:30"
+                            endTime="00:24:02">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you assess the response and recovery efforts?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:02"
+                            endTime="00:26:27">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How have you seen the fire shape community relationships?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:27"
+                            endTime="00:27:05">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some of the places you still miss?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions" startTime="00:27:05" endTime=" ">
+            <pbcore:pbcoreIdentifier source="local">20191013_Wise_Ken_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/ken-wise-2019-10-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:21/datastream/TN/view</url>
+   </location>
+</mods>

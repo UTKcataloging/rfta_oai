@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191014_May_Bill</identifier>
+   <identifier type="pid">rfta:23</identifier>
+   <titleInfo>
+      <title>Interview with Bill May, 2019-10-14</title>
+   </titleInfo>
+   <abstract>Interview with Bill May, executive director for Arrowmont School of Arts and Crafts. May gives an overview of the history of Gatlinburg and particularly how Arrowmont has been involved in the region since its founding. He recounts the day of the fire in regards to the suddeness of the disaster and his efforts at the school. He also discusses the community activity centered at Arrowmont during following the wildfire. This is a representative quote from the interview: "That will always color my impression of the fires. It happened to people, and it happened to people regardless of station, regardless of financial circumstances."</abstract>
+   <name>
+      <namePart>May, Bill</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-10-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>01:10:45</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/9918584">
+      <geographic>Arrowmont School of Arts and Crafts</geographic>
+      <cartographics>
+         <coordinates>35.712925, -83.5104784</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/5839719">
+      <geographic>The Spur</geographic>
+      <cartographics>
+         <coordinates>35.744143, -83.520302</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2001080757">
+      <name>
+         <namePart>Arrowmont School of Arts and Crafts</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191014_May_Bill</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Bill May, 2019-10-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"That will always color my impression of the fires. It happened to people, and it happened to people regardless of station, regardless of financial circumstances."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:50"
+                            endTime="00:02:28">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about how long you have been in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:21:20" endTime="00:34:13">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Arrowmont School of Arts and Crafts</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Arrowmont School of Arts and Crafts.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:28"
+                            endTime="00:03:17">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where were you before moving to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:38:17" endTime="00:40:52">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Spur</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses The Spur.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:17"
+                            endTime="00:09:12">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What has your life here been like and how were you involved with the community?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:12"
+                            endTime="00:11:34">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How has Gatlinburg changed since you've been here?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:34"
+                            endTime="00:14:08">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about Arrowmont and how it has evolved?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:08"
+                            endTime="00:21:35">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the programs offered by Arrowmont?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:35"
+                            endTime="00:30:24">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the days leading up to the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:24"
+                            endTime="00:36:55">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there fear amongs the students and artists in residence?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:36:55"
+                            endTime="00:38:48">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your wife still at home or had she already left?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:38:48"
+                            endTime="00:45:12">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>About what time did you leave campus and head home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:12"
+                            endTime="00:47:50">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Why do you think that the news reported the school had burned?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:47:50"
+                            endTime="00:52:35">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel that social media played a role through the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:52:35"
+                            endTime="01:00:52">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the following days like when people started returning to campus?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:00:52"
+                            endTime="01:03:01">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you seen art used as a form of healing since the wildfires?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:03:01"
+                            endTime="01:05:27">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think tourists coming through Gatlinburg today have any idea about what happened in 2016?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:05:27"
+                            endTime="01:07:33">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you thought about any provisions going forward in case of a similar emergency?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:07:33"
+                            endTime="01:10:16">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Has anything good or sursprising come out of this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:10:16"
+                            endTime="01:10:45">
+            <pbcore:pbcoreIdentifier source="local">20191014_May_Bill_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/bill-may-2019-10-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:23/datastream/TN/view</url>
+   </location>
+</mods>

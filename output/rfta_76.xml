@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200314_Sweeney_Bob</identifier>
+   <identifier type="pid">rfta:76</identifier>
+   <titleInfo>
+      <title>Interview with Bob Sweeney, 2020-03-14</title>
+   </titleInfo>
+   <abstract>Interview with Bob Sweeney, resident of Gatlinburg. Sweeney describes the fire as a someone who recently moved to the area before suffering losses. He recounts the following days and months in terms of the lessons he learned from the wildfire and the opportunities that it provided. This is a representative quote from the interview: We look over and there's a a flower pot with some pansies still planted in it that was untouched. And there were a few items like that just scattered around, a bench over here that didn't burn. And I think we went over and we kind of talked about how funny that was. And we were just kind of skirting around the fact that there wasn't any house there, and all of that I guess. You just kind of push yourself over into a safer place for a minute.</abstract>
+   <name>
+      <namePart>Sweeney, Bob</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-03-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>01:34:26</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Bob Sweeney, 2020-03-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>We look over and there's a a flower pot with some pansies still planted in it that was untouched. And there were a few items like that just scattered around, a bench over here that didn't burn. And I think we went over and we kind of talked about how funny that was. And we were just kind of skirting around the fact that there wasn't any house there, and all of that I guess. You just kind of push yourself over into a safer place for a minute.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:34"
+                            endTime="00:00:57">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:57"
+                            endTime="00:01:33">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you been in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:33"
+                            endTime="00:01:50">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Had you been visiting Gatlinburg as a family?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:50"
+                            endTime="00:02:24">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us a little about your family?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:24"
+                            endTime="00:03:11">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where did you live in relation to downtown Gatlinburg before the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:11"
+                            endTime="00:04:07">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What's it like living in a town like Gatlinburg with a small local population but a large tourist presence?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:07"
+                            endTime="00:05:45">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the Summer and Fall before the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:45"
+                            endTime="00:07:29">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Your son had mentioned that it was his birthday a few days before the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:29"
+                            endTime="00:10:13">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you experience the day of the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:13"
+                            endTime="00:10:57">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time were you talking with your wife about what to take when evacuating?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:57"
+                            endTime="00:12:26">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At what point did you decide to leave for Gatlinburg from West Tennessee?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:26"
+                            endTime="00:13:50">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like that night when you reunited with your family?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:50"
+                            endTime="00:14:35">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long were you at your friends' house?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:35"
+                            endTime="00:15:17">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like going back to your home for the first time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:17"
+                            endTime="00:40:08">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was it within those following three days that you decided to go to your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:40:08"
+                            endTime="00:48:34">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the months after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:48:34"
+                            endTime="01:34:26">
+            <pbcore:pbcoreIdentifier source="local">20200314_Sweeney_Bob_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you also in the camper for Christmas?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/bob-sweeney-2020-03-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:76/datastream/TN/view</url>
+   </location>
+</mods>

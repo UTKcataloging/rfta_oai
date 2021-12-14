@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191014_Aday_Mike</identifier>
+   <identifier type="pid">rfta:22</identifier>
+   <titleInfo>
+      <title>Interview with Mike Aday, 2019-10-14</title>
+   </titleInfo>
+   <abstract>Interview with Mike Aday, archivist for the Great Smoky Mountains National Park. Aday discusses the day of the fire from the vantage point of someone outside the city. He recounts the fear of the day as well as the damage done to the city of Gatlinburg and surrounding area. He provides insight into academic research areas that have opened up after the wildfire. This is a representative quote from the interview: "I think it's important that we look at the fire history of this area and look at the human impact that has created these fire events. This isn't a one off."</abstract>
+   <name>
+      <namePart>Aday, Mike</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-10-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:37:17</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Park Service personnel</topic>
+   </subject>
+   <note displayLabel="Browse">Educators and Public or Government officials or employees</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12128427">
+      <geographic>Twin Creeks Science Center</geographic>
+      <cartographics>
+         <coordinates>35.6875773, -83.4997725</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4660757">
+      <geographic>Sugarlands Visitor Information Center</geographic>
+      <cartographics>
+         <coordinates>35.6856495, -83.536547</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12218364">
+      <geographic>Great Smoky Mountains Heritage Center</geographic>
+      <cartographics>
+         <coordinates>35.8681971, -84.3247831</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Mike Aday, 2019-10-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I think it's important that we look at the fire history of this area and look at the human impact that has created these fire events. This isn't a one off."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:54"
+                            endTime="00:01:39">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us some of your background in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:07:04" endTime="00:15:39">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Twin Creeks Science Center</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Twin Creeks Science Center.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:39"
+                            endTime="00:02:43">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us when you first knew there was a fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:15:39" endTime="00:18:41">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Sugarlands Visitor Information Center</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Sugarlands Visitor Information Center.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:43"
+                            endTime="00:03:54">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us where the Twin Creeks Science Center is?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:18:41" endTime="00:19:14">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Great Smoky Mountains Heritage Center</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Great Smoky Mountains Heritage Center.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:54"
+                            endTime="00:05:15">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were any of your colleagues talking about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:15"
+                            endTime="00:06:14">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>On the morning of the fire, where were you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:14"
+                            endTime="00:07:25">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us the route you took going into Gatlinburg and what you saw?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:25"
+                            endTime="00:08:04">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you got to the Visitor's Center, did you see any smoke?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:04"
+                            endTime="00:09:04">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What transpired after going to the science center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:04"
+                            endTime="00:10:44">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where was the orange glow that you described?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:44"
+                            endTime="00:13:28">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were your emotions heading towards the science center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:28"
+                            endTime="00:15:28">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Everyone seemed content to wait, what happend next?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:28"
+                            endTime="00:15:34">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You didn't have any issues leaving the science center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:34"
+                            endTime="00:15:54">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you arrived back at the Visitor's Center, did it feel safer?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:54"
+                            endTime="00:16:32">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe what was going on at the Visitor's Center (corrected to Park Headquarters located behind Visitor's Center)?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:32"
+                            endTime="00:16:46">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did it seem coordinated?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:46"
+                            endTime="00:17:44">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long were you at headquarters?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:44"
+                            endTime="00:18:29">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Had you noticed any changes in the wind or smoke at this point?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:29"
+                            endTime="00:19:09">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What else did you do that day?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:09"
+                            endTime="00:19:54">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did Gatlinburg catching on fire surprise you?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:54"
+                            endTime="00:21:49">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like coming back to Park Headquarters after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:49"
+                            endTime="00:23:19">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you left Park Headquarters going towards Gatlinburg, what did you see?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:19"
+                            endTime="00:24:30">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>As you're driving past Mynatt Park and see the damage, what is your emotional reaction?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:30"
+                            endTime="00:26:00">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the emotional impact of the entire event?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:00"
+                            endTime="00:27:10">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the emotional impact of the entire event?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:10"
+                            endTime="00:28:18">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you notice what effect the fire had on the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:18"
+                            endTime="00:31:30">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did anything good or surprising come out of this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:30"
+                            endTime="00:32:59">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did this open any opportunites for the scientific community to do research?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:59"
+                            endTime="00:34:05">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you thought about any provisions you would make if this happened again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:05"
+                            endTime="00:35:26">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:26"
+                            endTime="00:37:17">
+            <pbcore:pbcoreIdentifier source="local">20191014_Aday_Mike_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you agree that this is not a one off event, that it can happen again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/mike-aday-2019-10-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:22/datastream/TN/view</url>
+   </location>
+</mods>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191013_Shambaugh_Frances_Fox</identifier>
+   <identifier type="pid">rfta:13</identifier>
+   <titleInfo>
+      <title>Interview with Frances Fox Shambaugh, 2019-10-13</title>
+   </titleInfo>
+   <abstract>Interview with Frances Shambaugh, lifelong resident of Gatlinburg. Shambaugh recounts her evacuation and time spent afterwards at the community center. She discusses the efforts in the community to support one another and her own efforts at rebuilding her home and studio. This is a representative quote from the interview: "It brought people together and there was a strong sense of community. A strong sense of not only us helping each other, but people all over the country helping us."
+</abstract>
+   <name>
+      <namePart>Fox Shambaugh, Frances</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-10-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:39:40</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85042742">
+      <topic>Emergency housing</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225046">
+      <geographic>Rattlesnake Hollow Road</geographic>
+      <cartographics>
+         <coordinates>35.7189965, -83.4973744</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/7248040">
+      <geographic>Pigeon Forge Community Center</geographic>
+      <cartographics>
+         <coordinates>35.8062593, -83.5847141</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/9918584">
+      <geographic>Arrowmont School of Arts and Crafts</geographic>
+      <cartographics>
+         <coordinates>35.712925, -83.5104784</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2001080757">
+      <name>
+         <namePart>Arrowmont School of Arts and Crafts</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Frances Fox Shambaugh, 2019-10-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"It brought people together and there was a strong sense of community. A strong sense of not only us helping each other, but people all over the country helping us."
+</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:58"
+                            endTime="00:01:26">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you state your name and a little about how long you've been in Gatlinburg?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:02:14" endTime="00:04:26">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rattlesnake Hollow Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rattlesnake Hollow Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:26"
+                            endTime="00:02:37">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about what you've been doing in Gatlinburg since moving back?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:04:26" endTime="00:11:05">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pigeon Forge Community Center</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pigeon Forge Community Center.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:37"
+                            endTime="00:06:07">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where were you when you first became aware of the fire in the park?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:18:41" endTime="00:20:24">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Arrowmont School of Arts and Crafts</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Arrowmont School of Arts and Crafts.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:07"
+                            endTime="00:06:29">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After getting to the community center, what were your thoughts?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:29"
+                            endTime="00:07:22">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you first learn about the fire reaching your house?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:22"
+                            endTime="00:07:52">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your feeling when you learned you had lost your house?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:52"
+                            endTime="00:08:57">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you couldn't go back home, what did you do?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:57"
+                            endTime="00:09:19">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did you stay in the shelter?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:19"
+                            endTime="00:11:02">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What kind of activities were you doing during that time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:02"
+                            endTime="00:11:25">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At what point did you get back to see your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:25"
+                            endTime="00:12:26">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your reaction seeing your home destroyed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:26"
+                            endTime="00:13:45">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did you stay there that first day?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:45"
+                            endTime="00:14:47">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your thinking process at this point?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:47"
+                            endTime="00:15:38">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you talk with your neighbors about the loss?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:38"
+                            endTime="00:18:35">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Being in the rental house had a creepy feeling?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:35"
+                            endTime="00:19:11">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you ever get back into regular Arrowmont programming during this time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:11"
+                            endTime="00:20:25">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe the sense of community that was at Arrowmont?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:25"
+                            endTime="00:21:49">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At what point did you start thinking about your business?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:49"
+                            endTime="00:22:42">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did the community come together and share a studio?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:42"
+                            endTime="00:23:36">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After reestablishing your business, what did you do about your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:36"
+                            endTime="00:24:18">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have any difficulties contacting friends and family during the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:18"
+                            endTime="00:25:24">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At any point in the fire did you feel that you were in danger?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:24"
+                            endTime="00:26:30">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this event impact you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:30"
+                            endTime="00:27:43">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this event impact you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:43"
+                            endTime="00:28:07">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you managed to recover your business?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:07"
+                            endTime="00:29:27">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you made any provisions in case this happens again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:27"
+                            endTime="00:31:23">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you build your house back similar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:23"
+                            endTime="00:33:32">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the fire shape community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:32"
+                            endTime="00:34:52">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did anything surprising or good that came out of this?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:52"
+                            endTime="00:35:45">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What effect did the media coverage have?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:45"
+                            endTime="00:36:35">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q31</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:36:35"
+                            endTime="00:39:40">
+            <pbcore:pbcoreIdentifier source="local">20191013_Shambaugh_Frances_Fox_Q32</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was the outpouring in the community what you expected?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/frances-fox-shambaugh-2019-10-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:13/datastream/TN/view</url>
+   </location>
+</mods>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200111_Lane_Joy</identifier>
+   <identifier type="pid">rfta:51</identifier>
+   <titleInfo>
+      <title>Interview with Joy Lane, 2020-01-11</title>
+   </titleInfo>
+   <abstract>Interview with Joy Lane, resident and native of Sevierville. Lane shares her story of being forced to evacuate her home during the 2016 wildfires. She also discusses returning to find her home destroyed and the difficulties she faced in the period afterwards. This is a representative quote from the interview: "We were just focused on grabbing the pet and what few belongings I packed to get out of there cause we didn't know how soon the embers would catch the house on fire."</abstract>
+   <name>
+      <namePart>Lane, Joy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-01-11</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:29:15</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <note displayLabel="Browse">Dollywood and Pigeon Forge</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649251">
+      <geographic>Pigeon Forge</geographic>
+      <cartographics>
+         <coordinates>35.78842, -83.55433</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12226270">
+      <geographic>Middle Creek Road</geographic>
+      <cartographics>
+         <coordinates>35.84339, -83.54093</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Joy Lane, 2020-01-11</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"We were just focused on grabbing the pet and what few belongings I packed to get out of there cause we didn't know how soon the embers would catch the house on fire."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:54"
+                            endTime="00:01:41">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us your name and how long you have been in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:02:14" endTime="00:05:24">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pigeon Forge</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pigeon Forge.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:41"
+                            endTime="00:02:02">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Does all of your family live in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:05:24" endTime="00:06:38">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Middle Creek Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Middle Creek Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:02"
+                            endTime="00:02:14">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where were you living at the time of the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:14"
+                            endTime="00:02:38">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you first get news that there was a fire in the Smokies?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:38"
+                            endTime="00:02:53">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you work in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:53"
+                            endTime="00:03:37">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time did you leave work to go home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:37"
+                            endTime="00:04:04">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your husband at home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:04"
+                            endTime="00:04:33">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you know that Gatlinburg was on fire at that time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:33"
+                            endTime="00:06:38">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time of day did you start evacuating?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:38"
+                            endTime="00:06:54">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did your neighbors leave with you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:54"
+                            endTime="00:07:41">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you get back to your home yet? What did you do next?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:41"
+                            endTime="00:08:17">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you react when you first heard your house had burned down?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:17"
+                            endTime="00:08:46">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did your husband react to the loss?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:46"
+                            endTime="00:09:20">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you talk to your neighbors afterwards?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:20"
+                            endTime="00:09:51">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After hearing that you had lost everything, what did you do next?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:51"
+                            endTime="00:10:20">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you see when you came back to your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:20"
+                            endTime="00:10:34">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was anyone else in your family involved?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:34"
+                            endTime="00:11:10">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your son's reaction?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:10"
+                            endTime="00:11:39">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you do over the next few days?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:39"
+                            endTime="00:12:09">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did picking up the pieces look like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:09"
+                            endTime="00:13:24">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How difficult was it for you to work through this process?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:24"
+                            endTime="00:13:51">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did they ever determine what cause the fire? Was it a transformer?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:51"
+                            endTime="00:14:34">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the emotional impact that the fire had on you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:34"
+                            endTime="00:15:34">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the emotional impact that the fire had on you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:34"
+                            endTime="00:16:02">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you able to go back to work fairly soon?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:02"
+                            endTime="00:16:17">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your husband's work affected by the fire any?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:17"
+                            endTime="00:17:11">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the next step?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:11"
+                            endTime="00:17:32">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you think these fires shaped community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:32"
+                            endTime="00:18:12">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some examples?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:12"
+                            endTime="00:18:54">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What provisions have th epeople in Pigeon Forge and Gatlinburg made for the future? Have you made any personally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:54"
+                            endTime="00:19:34">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q31</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think another fire can happen here?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:34"
+                            endTime="00:20:16">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q32</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you encountered anybody in the community that blames the city for what happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:16"
+                            endTime="00:20:24">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q33</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think they took care of you the best that they could?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 33</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:24"
+                            endTime="00:21:43">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q34</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did anything surprising or good come out of this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 34</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:43"
+                            endTime="00:22:14">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q35</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did the kindness you received from the community surprise you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 35</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:14"
+                            endTime="00:22:48">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q36</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did any of your friends that you grew up with lose their homes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 36</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:48"
+                            endTime="00:23:42">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q37</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you assess the overall recovery effort of Gatlinburg after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 37</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:42"
+                            endTime="00:24:48">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q38</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 38</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:48"
+                            endTime="00:24:48">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q39</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe the fire you saw in the video?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 39</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:48"
+                            endTime="00:25:49">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q40</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How many days after the fire did you see this video?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 40</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:49"
+                            endTime="00:26:07">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q41</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was going through your mind while watching it?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 41</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:07"
+                            endTime="00:26:16">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q42</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you ever watch it again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 42</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:16"
+                            endTime="00:27:00">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q43</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 43</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:00"
+                            endTime="00:29:15">
+            <pbcore:pbcoreIdentifier source="local">20200111_Lane_Joy_Q44</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like going through the rubble of your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 44</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/joy-lane-2020-01-11/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:51/datastream/TN/view</url>
+   </location>
+</mods>

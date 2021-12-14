@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20191109_Jackson_Becky</identifier>
+   <identifier type="pid">rfta:32</identifier>
+   <titleInfo>
+      <title>Interview with Becky Jackson, 2019-11-09</title>
+   </titleInfo>
+   <abstract>Interview with Becky Jackson, former resident of Gatlinburg. Jackson recounts the difficulty of the fire with family members all separated and trying to reunite. She also discusses the difficulties faced in losing her home and then going through a divorce. The role played by the community and family members to alleviate the loss are also described. This is a representative quote from the interview: "My first instinct wasn't my home or anything. It was more about how are people gettting out of there that don't know the roads like we do, that are there on vacation? </abstract>
+   <name>
+      <namePart>Jackson, Becky</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Benedetto Beals, Jennifer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2019-11-09</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>01:04:35</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12218372">
+      <geographic>Gatlinburg Trail</geographic>
+      <cartographics>
+         <coordinates>35.6981686, -83.5285239</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225045">
+      <geographic>Parkway (US-321/US 441 S)</geographic>
+      <cartographics>
+         <coordinates>35.789297, -83.5576309</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12218368">
+      <geographic>Dolly Parton Parkway</geographic>
+      <cartographics>
+         <coordinates>35.8650861, -83.5456737</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Becky Jackson, 2019-11-09</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"My first instinct wasn't my home or anything. It was more about how are people gettting out of there that don't know the roads like we do, that are there on vacation? </pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:55"
+                            endTime="00:01:36">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you live in the East Tennessee area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:03:26" endTime="00:05:08">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Gatlinburg Trail</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Gatlinburg Trail.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:36"
+                            endTime="00:02:46">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your life in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:14:55" endTime="00:21:20">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Parkway (US-321/US 441 S)</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Parkway (US-321/US 441 S).</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:46"
+                            endTime="00:04:34">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the days leading up to the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:21:20" endTime="00:27:34">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Dolly Parton Parkway</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Dolly Parton Parkway.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:34"
+                            endTime="00:05:08">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did that Fall seem different from other Falls?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:08"
+                            endTime="00:09:30">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you realize that something was not right?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:30"
+                            endTime="00:11:16">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where were you getting your information from?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:16"
+                            endTime="00:13:00">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any official messages at this point or was your manager just letting you go for safety?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:00"
+                            endTime="00:15:08">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How close is the Spur to your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:08"
+                            endTime="00:15:34">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>This line of cars were people trying to leave Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:34"
+                            endTime="00:19:26">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were you thinking when you heard the Spur was closed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:26"
+                            endTime="00:24:06">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At that point you lost connection with your husband?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:06"
+                            endTime="00:29:55">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have any communication with other neighbors who were evacuating, or listening to the radio?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:55"
+                            endTime="00:30:29">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What happened to your daughter's boyfriend?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:29"
+                            endTime="00:31:07">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>While you were in the hotel watching the news, is that when you started to grasp the bigger picture?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:07"
+                            endTime="00:31:48">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were you thinking about?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:48"
+                            endTime="00:33:09">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What happened the next day? Were your feeling evolving? Were your plans changing?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:09"
+                            endTime="00:38:45">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you find out about losing your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:38:45"
+                            endTime="00:39:46">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>About how many days had passed since you initially evacuated to learning that you had lost your home?
+</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:46"
+                            endTime="00:42:39">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there recovery efforts in the community at that point?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:39"
+                            endTime="00:50:00">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were your next steps as you started to recover from this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:50:00"
+                            endTime="00:54:32">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you found out that you had lost your home, what was the situation for the rest of your neighborhood?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:54:32"
+                            endTime="00:55:49">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have communication with other community members about what had happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:55:49"
+                            endTime="00:58:25">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would assess the emergency response?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:58:25"
+                            endTime="00:58:38">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would assess the emergency response?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:58:38"
+                            endTime="00:59:15">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have a new home now?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:59:15"
+                            endTime="00:59:28">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So you are going to stay in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:59:28"
+                            endTime="01:00:54">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What preparations are you going to take in case somthing like this happened again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:00:54"
+                            endTime="01:02:38">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did anything surprising or good come out of this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="01:02:38"
+                            endTime="01:04:35">
+            <pbcore:pbcoreIdentifier source="local">20191109_Jackson_Becky_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/becky-jackson-2019-11-09/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:32/datastream/TN/view</url>
+   </location>
+</mods>

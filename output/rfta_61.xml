@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200220_Werner_Mike</identifier>
+   <identifier type="pid">rfta:61</identifier>
+   <titleInfo>
+      <title>Interview with Mike Werner, 2020-02-20</title>
+   </titleInfo>
+   <abstract>Interview with Mike Werner, Mayor of Gatlinburg. Werner discusses the day of the fire and the heavy smoke in the air and the surprising speed at which the fire reached the city. He also recounts balancing his professional respsonsibilities to Gatlinburg while also managing the loss of his own home in the disaster. This is a representative quote from the interview: "Our downtown was saved. If we would've lost our downtown, it wouldn't have been a few years to recover, it would've been decades."</abstract>
+   <name>
+      <namePart>Werner, Mike</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95109439">
+      <namePart>Wise, Ken, 1950-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-02-20</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/12128430">Rocky Top Sports World</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:48:36</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Public and government officials</topic>
+   </subject>
+   <note displayLabel="Browse">Educators and Public or Government officials or employees</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85082436">
+      <topic>Mayors</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh91000441">
+      <topic>Emergency management</topic>
+   </subject>
+   <note displayLabel="Browse">Emergency Management</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Mike Werner, 2020-02-20</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"Our downtown was saved. If we would've lost our downtown, it wouldn't have been a few years to recover, it would've been decades."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:52"
+                            endTime="00:01:59">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you state your name and tell us about your history with Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:59"
+                            endTime="00:04:20">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What brought you to Gatlinburg? Can you tell us some of your personal history?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:20"
+                            endTime="00:05:20">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you first notice in the week precedig the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:20"
+                            endTime="00:06:36">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you still living in Walden's Creek when the smoke was so thick in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:36"
+                            endTime="00:08:43">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Which morning was it that you couldn't see Gatlinburg due to the smoke?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:43"
+                            endTime="00:09:29">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Who was with you that went to Knoxville?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:29"
+                            endTime="00:09:58">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time did you leave Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:58"
+                            endTime="00:11:12">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you just leaving to go to dinner and then come back?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:12"
+                            endTime="00:11:35">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did your sone stay at your home the entire time that evening?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:35"
+                            endTime="00:12:03">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are the people telling you when the call?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:03"
+                            endTime="00:12:56">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are these friends that are calling you? How much did they know?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:56"
+                            endTime="00:13:32">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you respond after all the calls?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:32"
+                            endTime="00:15:09">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So people were calling you about the damage?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:09"
+                            endTime="00:15:52">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe being on the Spur as you approach the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:52"
+                            endTime="00:16:49">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you come in on 441?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:49"
+                            endTime="00:19:02">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Who was at the briefing?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:02"
+                            endTime="00:20:23">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you use the phrase "Mountain Tough?" Did it originate with you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:23"
+                            endTime="00:21:14">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Once you've come into Gatlinburg, do you know anything about your home or business?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:14"
+                            endTime="00:22:24">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were you anticipating as you were going to your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:24"
+                            endTime="00:23:41">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your emotional reaction to seeing the destruction?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:41"
+                            endTime="00:24:03">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How much of your personal possessions did you lose?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:03"
+                            endTime="00:25:07">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you get a chance to see your home for yourself? What was your reaction?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:07"
+                            endTime="00:27:13">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do yo believe happened to your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:13"
+                            endTime="00:27:57">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do yo believe happened to your home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:57"
+                            endTime="00:29:54">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Had you gone back to work at any point when you were moving around?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:54"
+                            endTime="00:30:54">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe how the fire impacted you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:54"
+                            endTime="00:31:59">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the loss of your personal belonging impact you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:59"
+                            endTime="00:33:45">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this even impact you financially?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:45"
+                            endTime="00:35:43">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you stay in touch with the Gatlinburg community and media after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:43"
+                            endTime="00:36:17">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the residents of Gatlinburg assess the recovery effort?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:36:17"
+                            endTime="00:37:19">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q31</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>As a Midwesterner, did the outpouring surprise you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:19"
+                            endTime="00:39:08">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q32</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think people are upset about your actions personally, or the negativity is a response to something larger?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:08"
+                            endTime="00:40:11">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q33</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>From your perspective, how did the fire shape community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 33</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:40:11"
+                            endTime="00:42:35">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q34</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did the City of Gatlinburg do to bring tourism back?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 34</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:35"
+                            endTime="00:43:35">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q35</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have any idea why there was so much disinformation?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 35</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:43:35"
+                            endTime="00:44:11">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q36</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you meet any of the families of those that lost their lives?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 36</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:44:11"
+                            endTime="00:45:03">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q37</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like meeting these families?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 37</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:03"
+                            endTime="00:47:15">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q38</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to add?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 38</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:47:15"
+                            endTime="00:48:36">
+            <pbcore:pbcoreIdentifier source="local">20200220_Werner_Mike_Q39</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where do you go from here?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 39</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/mike-werner-2020-02-20/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:61/datastream/TN/view</url>
+   </location>
+</mods>

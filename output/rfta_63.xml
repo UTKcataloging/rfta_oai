@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200221_Biven_Russell</identifier>
+   <identifier type="pid">rfta:63</identifier>
+   <titleInfo>
+      <title>Interview with Russell Biven, 2020-02-21</title>
+   </titleInfo>
+   <abstract>Interview with Russell Biven of WBIR news station in Knoxville. Biven recounts being a reporter on the front line during the wildfires' aftermath. He discusses the stories that left a lasting impression on him personally during that time. He also talks on the difficulties in covering a disaster when it is so close to home. This is a representative quote from the interview: "We want to get it right, we want to tell the facts, and we want to do it the right way and be objective about it, but when the shift is over, you're still a human being."</abstract>
+   <name>
+      <namePart>Biven, Russell</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Nichols, Margie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-02-21</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:31:16</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Journalists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85070736">
+      <topic>Journalism</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00007534">
+      <topic>Reporters and reporting</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Russell Biven, 2020-02-21</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"We want to get it right, we want to tell the facts, and we want to do it the right way and be objective about it, but when the shift is over, you're still a human being."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:50"
+                            endTime="00:00:59">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you do for a living?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:59"
+                            endTime="00:01:20">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in Knoxville?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:20"
+                            endTime="00:01:34">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you first realize that the fires were becoming serious?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:34"
+                            endTime="00:02:27">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you first go to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:27"
+                            endTime="00:03:14">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the first things that the officials were telling you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:14"
+                            endTime="00:04:36">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you sort through all the incoming information for the best of it?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:36"
+                            endTime="00:06:32">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you balance being a human with being a journalist?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:32"
+                            endTime="00:07:15">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you feel that in your role as a journalist, you were able to help not only viewers, but the survivors who wanted to share their stories?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:15"
+                            endTime="00:08:46">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the stories that touched your heart?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:46"
+                            endTime="00:09:34">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the nature of your coverage change as the days progressed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:34"
+                            endTime="00:09:57">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you realize that people were dying and being trapped at the beginning?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:57"
+                            endTime="00:11:26">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Who else had a story that was important to you both as a broadcast journalist and as an individual?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:26"
+                            endTime="00:12:53">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your focus during that time talking to the survivors who had lost everything?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:53"
+                            endTime="00:14:21">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How important do you feel your professional role was during this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:21"
+                            endTime="00:15:27">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What about the families of the people that passed away? Did you talk to them?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:27"
+                            endTime="00:16:20">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were most of the firefighters able to get their families out?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:20"
+                            endTime="00:16:20">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the stories that continued to happen in the weeks and months after?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:20"
+                            endTime="00:17:53">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the stories that continued to happen in the weeks and months after?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:53"
+                            endTime="00:19:25">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the reactions from the survivors?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:25"
+                            endTime="00:20:12">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this change you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:12"
+                            endTime="00:21:06">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>In addition to the human element, do you think help came from people's love of the park?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:06"
+                            endTime="00:22:07">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When Dolly stepped up, how did you see that impact people in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:07"
+                            endTime="00:23:04">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the reaction of people in the area to the Dolly Foundation?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:04"
+                            endTime="00:24:50">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the reaction of people in the area to the Dolly Foundation?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:50"
+                            endTime="00:27:10">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything I haven't asked about that you want to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:10"
+                            endTime="00:29:01">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How is covering a tragedy in your own backyard different?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:01"
+                            endTime="00:30:44">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel about the job you did and the job the sation did, at the time, and now?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:44"
+                            endTime="00:31:16">
+            <pbcore:pbcoreIdentifier source="local">20200221_Biven_Russell_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything we haven't talked about?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/russell-biven-2020-02-21/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:63/datastream/TN/view</url>
+   </location>
+</mods>

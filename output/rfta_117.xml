@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20201026_Cole_Charlie</identifier>
+   <identifier type="pid">rfta:117</identifier>
+   <titleInfo>
+      <title>Interview with Charlie Cole, 2020-10-26</title>
+   </titleInfo>
+   <abstract>Interview with Charlie Cole, fire chief fo the city of Gatlinburg. Cole discusses the time leading up to the fire along with the conditions that led to so much devastation. He also recounts the night of the wildfires in terms of the fire department's logistics and operations to combat the disaster. This is a representative quote from the interview: "We switched to an evacuation rescue mode to where the police and the fire, all the first responders, all the additional resources switched over to an evacuation and rescue mode. We actually, the numbers say, that we evacuated 14,000, approximately, people in Gatlinburg surrounding area of the county and Gatlinburg area that night."</abstract>
+   <name>
+      <namePart>Cole, Charlie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-10-26</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:53:10</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>First responders</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh91000441">
+      <topic>Emergency management</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2007008878">
+      <topic>First responders</topic>
+   </subject>
+   <note displayLabel="Browse">Emergency Management</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
+      <topic>COVID-19 Pandemic, 2020-</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Charlie Cole, 2020-10-26</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>We switched to an evacuation rescue mode to where the police and the fire, all the first responders, all the additional resources switched over to an evacuation and rescue mode. We actually, the numbers say, that we evacuated 14,000, approximately, people in Gatlinburg surrounding area of the county and Gatlinburg area that night.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:02"
+                            endTime="00:01:57">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about your background?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:57"
+                            endTime="00:03:17">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Outside of your work with the fire department, can you talk about your involvement with the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:17"
+                            endTime="00:04:46">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were your experiences in the days and weeks leading up to the wildfires in 2016?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:46"
+                            endTime="00:06:03">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When were you first notified about the fire on Chimney Tops?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:03"
+                            endTime="00:07:17">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So there was a lot of smoke on the day of the fire? At what point were you concerned that the fire could come into the city?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:17"
+                            endTime="00:08:53">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>In your role at that time, what were the operational logistics or activities that you were undertaking that day?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:53"
+                            endTime="00:10:45">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What transpired when you and your colleagues first realized the wildfires were entering Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:45"
+                            endTime="00:13:26">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What happened as the fire started coming out of Twin Creeks and into Gatlinburg? Could you talk about the direction the fire ended up taking?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:26"
+                            endTime="00:14:42">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were your experiences that evening as the fire progressed and communications began with other fire departments that came into the city?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:42"
+                            endTime="00:15:27">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you based at the fire department that evening or somewhere else?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:27"
+                            endTime="00:17:27">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like at the command center? What were some personal feelings from that night you felt as a resident of Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:27"
+                            endTime="00:19:03">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any memories from that evening that have stuck with you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:03"
+                            endTime="00:20:39">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What transpired as the night went on? What kind of direction was given to the fire department?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:39"
+                            endTime="00:22:24">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the weather shift that night? When the rain came, what transpired next?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:24"
+                            endTime="00:23:46">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there other urgent issues besides evacuation that you dealt with that evening?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:46"
+                            endTime="00:24:40">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have any challenges with lack of communication?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:40"
+                            endTime="00:26:35">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else about the night of the wildfires that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:35"
+                            endTime="00:28:30">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Moving to the following day, what were the most urgent issues in the days after the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:30"
+                            endTime="00:29:25">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe the extent of the physical damage to the city?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:25"
+                            endTime="00:31:15">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any memories from that time period following the fires that have stuck with you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:15"
+                            endTime="00:33:36">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any other ways that this event had a personal impact on you, either emotionally or otherwise?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:33:36"
+                            endTime="00:38:18">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you discuss any new disaster response plans that have been employed because of the 2016 wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:38:18"
+                            endTime="00:40:34">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about what Fire Wise is for people who aren't familiar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:40:34"
+                            endTime="00:42:01">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about what Fire Wise is for people who aren't familiar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:01"
+                            endTime="00:42:50">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the fires shape community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:50"
+                            endTime="00:45:41">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else surprising or good that came out of this event?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:41"
+                            endTime="00:46:49">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you say that the natural environment has recovered from the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:46:49"
+                            endTime="00:50:00">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that you would like to share about how the COVID-19 pandemic has impacted your work just a few years after the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:50:00"
+                            endTime="00:53:10">
+            <pbcore:pbcoreIdentifier source="local">20201026_Cole_Charlie_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that you would like to share that we haven't discussed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/charlie-cole-2020-10-26/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:117/datastream/TN/view</url>
+   </location>
+</mods>

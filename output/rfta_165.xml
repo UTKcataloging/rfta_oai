@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">2021_03_03_Rodriguez_Julia</identifier>
+   <identifier type="pid">rfta:165</identifier>
+   <titleInfo>
+      <title>Interview with Julia Rodriguez, 2021-03-03</title>
+   </titleInfo>
+   <titleInfo lang="spa">
+      <title>Entrevista con Julia Rodriguez, 2021-03-03</title>
+   </titleInfo>
+   <abstract>In this interview Julia Rodriguez, a Honduran native and Gatlinburg resident since 2000, tells us of the hours leading up to her evacuation and the fear filled drive her family experienced while leaving Gatlinburg as hills and homes burned down around them. Julia talks about how her sister lost her home in the fires and explains the aftermath of Gatlinburg residents dealing with a housing and employment crisis exacerbated by the fires. Julia also talks about the toll the fires had on this Hispanic community and the possible good that came of it. This is a representative quote from the interview: "“…that traumatizes you for the rest of your life. It's horrible, to see that you're at, the mouth of death. You don't know if you're living your final moments, and to see my son crying saying 'mommy, we're not going to make it.' I had no choice but to try and get out.
+   </abstract>
+   <abstract lang="spa">En esta entrevista Julia Rodríguez, una nativa de Honduras y residente de Gatlinburg desde el 2000, nos cuenta sobre las horas antes de su evacuación y el viaje aterrador que vivió su familia mientras conducían fuera de Gatlinburg mientras casas y colinas se quemaban a su alrededor. Julia habla sobre como su hermana perdió su casa en los incendios y explica como los residentes de Gatlinburg tuvieron que lidiar con una crisis de vivienda y empleo agravada por los incendios. Julia también habla sobre los efectos que tuvieron los incendios en la comunidad Hispana y posiblemente lo positivo que resulto de todo lo ocurrido. Esta es una cita representativa de la entrevista: "…eso te trauma el resto de tu vida. Es horrible, ver que estás en, la boca de la muerte. No sabes si estás viviendo tus últimos momentos, y ver a mi hijo llorando que dice 'mami, no lo lograremos.' Pero yo no tenía opción más que tratar de salir.”
+   </abstract>
+   <name>
+      <namePart>Rodriguez, Julia</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Rivera, Christian David</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2021-03-03</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:47:31</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+      <topic>Immigrants</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93004894">
+      <topic>Hondurans</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
+      <topic>COVID-19 Pandemic, 2020-</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/3608932">
+      <geographic>Honduras</geographic>
+      <cartographics>
+         <coordinates>15, -86.5</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4635130">
+      <geographic>Rocky Top</geographic>
+      <cartographics>
+         <coordinates>36.21786, -84.15465</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649150/">
+      <geographic>Pi Beta Phi Elementary School</geographic>
+      <cartographics>
+         <coordinates>35.71176, -83.51211</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225045">
+      <geographic>Parkway (US-321/US 441 S)</geographic>
+      <cartographics>
+         <coordinates>35.75498, -83.52259</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4645532">
+      <geographic>Newport</geographic>
+      <cartographics>
+         <coordinates>35.96704, -83.18766</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649868">
+      <geographic>Pittman Center Elementary School</geographic>
+      <cartographics>
+         <coordinates>35.74437, -83.40861</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">Spanish</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Julia Rodriguez, 2021-03-03</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>“…eso te trauma el resto de tu vida. Es horrible, ver que estás en, la boca de la muerte. No sabes si estás viviendo tus últimos momentos, y ver a mi hijo llorando que dice 'mami, no lo lograremos.' Pero yo no tenía opción más que tratar de salir.”
+         </pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:07"
+                            endTime="00:01:15">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Me puede decir por favor su nombre?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:07"
+            endTime="00:01:15">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell me your name please?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:25" endTime="00:01:33">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Honduras</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Honduras.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:15"
+                            endTime="00:01:51">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tiempo ha vivido en Gatlinburg, y nos puede contar como llegó al área, de donde es usted originalmente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:15"
+            endTime="00:01:51">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in Gatlinburg and can you tell us how you arrived to the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:04:20" endTime="00:04:33">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rocky Top.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:51"
+                            endTime="00:03:55">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Nos puede hablar un poco sobre su vida en Gatlinburg por ejemplo, tiene familia en el área? En que trabaja y, como usted se ha integrado en la comunidad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:51"
+            endTime="00:03:55">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your life in Gatlinburg, such as your family, employment, or community involvement?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:07:19" endTime="00:08:45">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Parkway (US-321/US 441 S)</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Parkway (US-321/US 441 S).</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:03:55"
+                            endTime="00:14:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Muy bien y, nos puede describir su hogar y la parte de la ciudad en la que vivía, o todavía vive, antes de que pasaran los incendios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:03:55"
+            endTime="00:14:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe your home and the part of town you lived in, or still live in, before the fires happened?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:07:19" endTime="00:08:45">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Newport</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Newport.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:14:31"
+                            endTime="00:17:46">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>En los días, antes del, de que pasaran los incendios, o esa mañana antes de, de que comenzara todo, usted había notado humo? Ya, ya dijo usted verdad que no había escuchado ningún reporte de la ciudad. Pero había notado usted humo? Y en qué momento usted se empezó a preocupar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:14:31"
+            endTime="00:17:46">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The days before the fires happened or the morning before everything started had you noticed smoke? You already mentioned you hadn't heard any reports from the city. But had you noticed smoke? And in what moment did you start to worry?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:10:55" endTime="00:11:42">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pittman Center Elementary School</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pittman Center Elementary School.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:17:46"
+                            endTime="00:23:17">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, usted dónde estaba cuando se dio cuenta que había un incendio forestal arrasando con Gatlinburg, y cuál fue su, reacción inicial?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:17:46"
+            endTime="00:23:17">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, where were you when you realized that there was a forest fire raging through Gatlinburg, and what was your initial reaction?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:18:18" endTime="00:19:15">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rocky Top.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:23:17"
+                            endTime="00:25:12">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, después de la evacuación, de Gatlinburg, cuál fue su experiencia mientras esperaban que, los dejaran regresar a la ciudad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:23:17"
+            endTime="00:25:12">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And after the evacuation, from Gatlinburg what was your experience while waiting for them to let you return to the city?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:25:12"
+                            endTime="00:26:01">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Cómo se mantuvo en contacto con su familia y amigos después de los incendios? Podría decirnos si las redes sociales jugaron un papel importante en, mantenerse en comunicación?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:25:12"
+            endTime="00:26:01">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you keep in contact with your family and friends after the fires? Could you tell us if social media played an important role in maintaining communication?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:26:01"
+                            endTime="00:28:04">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Nos puede describir como fue el regreso a Gatlinburg después de los incendios? Cómo fue ver a sus amigos o vecinos por primera vez? Y la experiencia de, de volver a, al trabajo o a la iglesia? Cuál fue la experiencia?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:26:01"
+            endTime="00:28:04">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe to us what the return to Gatlinburg after the fires was like? What was it like seeing your friends or neighbors for the first time? And the experience of returning to work or church? What was the experience like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:28:04"
+                            endTime="00:31:28">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Cómo evaluaría usted, los esfuerzos de rescate y ayuda? Por ejemplo, los primeros auxilios, o los oficiales de la ciudad? O FEMA, o voluntarios? Cuál es su evaluación de, de cómo ellos manejaron la situación?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:28:04"
+            endTime="00:31:28">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you evaluate the help and rescue efforts? For example, first aid or city ​​officials? Or FEMA or volunteers? What is your assessment of how they handled the situation?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:31:28"
+                            endTime="00:33:29">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Emocionalmente, como le ha impact- impactado ese incidente a usted? Desde su punto de vista, cómo influyó, el incendio las relaciones comunitarias?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:31:28"
+            endTime="00:33:29">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Emotionally, how has this incident impacted you? How did this incident affect you financially?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:33:29"
+                            endTime="00:36:12">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Ha pensado o hecho algún plan, si en el futuro algún incidente similar como ese, vuelve a pasar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:33:29"
+            endTime="00:36:12">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>From your point of view, what influence, did the fires have on community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:36:12"
+                            endTime="00:37:34">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Hay algo sorprendente o algo bueno que haya resultado, de este incidente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:36:12"
+            endTime="00:37:34">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you thought or made a plan, if in the future a similar incident like this happens again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:37:34"
+                            endTime="00:38:37">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Hay algo sorprendente o algo bueno que haya resultado, de este incidente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:37:34"
+            endTime="00:38:37">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there something surprising or something good that came as a result of this incident?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:38:37"
+                            endTime="00:41:56">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>También entendemos verdad que, los incendios afectaron a todos. Sin, sin importar si es Americano o Hispano, o de otra raza. Pero específicamente, cómo cree usted que afectó, los incendios a la comunidad Hispana, en Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:38:37"
+            endTime="00:41:56">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>We also understand that the fires affected everyone. Regardless of whether you are American or Hispanic or of another race. But specifically, how do you think the fires affected the Hispanic community in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:41:56"
+                            endTime="00:43:46">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Mencionó antes verdad que, que Gatlinburg, tiene un problema de trabajadores, y también de de vivienda. Cree usted verdad que, que los incendios, empeoraron esto?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:41:56"
+            endTime="00:43:46">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>You previously mentioned that Gatlinburg, has a problem with employment, and also housing. Do you believe that the fires worsened this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:43:46"
+                            endTime="00:47:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, ahora le quiero dar la oportunidad, de, si quiere decir algo sobre los incendios que aún no hemos tenido la oportunidad de, de mencionar. Si hay algo que quiere decir sobre sobre el tema, verdad. Puede, puede hablarnos de lo que sea.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:43:46"
+            endTime="00:47:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, now I want to give you the opportunity, of, if you want to say something about the fires we haven't yet had a chance to mention. If there is something you want to say about the topic, right. You can, you can talk to us about anything you'd like.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/julia-rodriguez-2021-03-03/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:165/datastream/TN/view</url>
+   </location>
+</mods>

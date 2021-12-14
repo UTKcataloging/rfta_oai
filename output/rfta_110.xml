@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200814_Lunsford_Harold-Barbara</identifier>
+   <identifier type="pid">rfta:110</identifier>
+   <titleInfo>
+      <title>Interview with Harold and Barbara Lunsford, 2020-08-14</title>
+   </titleInfo>
+   <abstract>Interview with Harold and Barbara Lunsford, volunteers with Samaritan's Purse, conducted by Casey Kaufman. The Lunsford discuss their efforts in helping sift through the remains of homes for any surviving objects and the faith based services that the group offers. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "We just even with the people that had burned their homes, we saw love, and even Samaritan's Purse, those people that went out everyday, tirelessly sifting that stuff, they just showed love to us, and to the homeowners. It was just a wonderful experience."</abstract>
+   <name>
+      <namePart>Lunsford, Harold</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Lunsford, Barbara</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-08-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79022914">South Carolina</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:38:26</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Recovery specialists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85124049">
+      <topic>Social service</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147560">
+      <topic>Women in charitable work</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Harold and Barbara Lunsford, 2020-08-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>We just even with the people that had burned their homes, we saw love, and even Samaritan's Purse, those people that went out everyday, tirelessly sifting that stuff, they just showed love to us, and to the homeowners. It was just a wonderful experience.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:03"
+                            endTime="00:03:28">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you state your name and tell us a little about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:28"
+                            endTime="00:07:46">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your role with the Billy Graham Rapid Response Team and other ministries you've been involved with?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:46"
+                            endTime="00:09:20">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were your experiences like in Gatlinburg before the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:20"
+                            endTime="00:19:54">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was going on when you found out about the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:54"
+                            endTime="00:21:46">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What kind of ministry were you able to provide to the Samaritan's Purse volunteers?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:46"
+                            endTime="00:24:31">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What differences did you see between the fires in Gatlinburg and some of the other disasters you've worked?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:31"
+                            endTime="00:26:34">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the similarities and differences between Gatlinburg and Katrina's aftermath?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:34"
+                            endTime="00:28:11">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the mindset of the people in Gatlinburg when you were there a month after the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:11"
+                            endTime="00:30:43">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any more memories of your time in Gatlinburg or after that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:43"
+                            endTime="00:32:16">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What has been the impact on you doing this kind of work, both across the county and locally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:16"
+                            endTime="00:38:26">
+            <pbcore:pbcoreIdentifier source="local">20200814_Lunsford_Harold-Barbara_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that we haven't talked about yet that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/harold-and-barbara-lunsford-2020-08-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:110/datastream/TN/view</url>
+   </location>
+</mods>

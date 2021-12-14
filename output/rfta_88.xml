@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200424_Cowart_Jeremy</identifier>
+   <identifier type="pid">rfta:88</identifier>
+   <titleInfo>
+      <title>Interview with Jeremy Cowart, 2020-04-24</title>
+   </titleInfo>
+   <abstract>Interview with Jeremy Cowart, photographer of the "Voices of Gatlinburg" project. Cowart discusses the inpiration for the project and how it is helping the families of the wildfires. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "I was just trying to use my project to get more eyeballs, because more eyeballs helps tell the story. Often in these situations, the news media comes in and does their thing and they leave and so I've tried to go in after that and not only retell the story but do it in a really creative way which is why I used the drones and a mattress to bring different eyeballs."</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2010187311">
+      <namePart>Cowart, Jeremy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Benedetto Beals, Jennifer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-04-24</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/4623556">Frankfort</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:21:30</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) not directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99001232">
+      <topic>Aerial photographs</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85022665">
+      <topic>Charities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Jeremy Cowart, 2020-04-24</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>I was just trying to use my project to get more eyeballs, because more eyeballs helps tell the story. Often in these situations, the news media comes in and does their thing and they leave and so I've tried to go in after that and not only retell the story but do it in a really creative way which is why I used the drones and a mattress to bring different eyeballs.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:52"
+                            endTime="00:01:21">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you state your name and your reason for participating in this project?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:21"
+                            endTime="00:01:36">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in this area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:36"
+                            endTime="00:02:26">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about your life here, your family, background, and involvement in the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:26"
+                            endTime="00:04:42">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you first hear about the fires in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:42"
+                            endTime="00:05:29">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you identify the individuals to photograph?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:29"
+                            endTime="00:06:02">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long after the fires did you start photographing?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:02"
+                            endTime="00:06:53">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your reaction when you first saw the devastation of Gatlinburg in person?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:53"
+                            endTime="00:07:40">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What about the people that you saw there, can you describe their reactions?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:40"
+                            endTime="00:08:56">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you started talking to people for the project, did you make any changes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:56"
+                            endTime="00:10:17">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any other challenges that you faced?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:17"
+                            endTime="00:11:20">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you think the experience shaped community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:20"
+                            endTime="00:13:07">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have any reaction to the recovery efforts after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:07"
+                            endTime="00:14:40">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there other good things that came out of this tragedy?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:40"
+                            endTime="00:15:07">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How many people did you photograph?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:07"
+                            endTime="00:15:20">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How many people did you reach out to that didn't participate?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:20"
+                            endTime="00:17:06">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any stories that particularly stood out to you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:06"
+                            endTime="00:17:27">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to tell us about the project or your experience?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:27"
+                            endTime="00:18:49">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you find this disaster to be different from the others that you've covered?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:49"
+                            endTime="00:19:50">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Has this made you think differently about a similar disaster in the future?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:50"
+                            endTime="00:20:06">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you see yourself continuing to document these kinds of incidents through your artwork?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:06"
+                            endTime="00:21:10">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any other takeaways that you had from the project or things you would have changed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:10"
+                            endTime="00:21:30">
+            <pbcore:pbcoreIdentifier source="local">20200424_Cowart_Jeremy_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you would like to share with us?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/jeremy-cowart-2020-04-24/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:88/datastream/TN/view</url>
+   </location>
+</mods>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200611_Waltosz_Kathy</identifier>
+   <identifier type="pid">rfta:99</identifier>
+   <titleInfo>
+      <title>Interview with Kathy Waltosz, 2020-06-11</title>
+   </titleInfo>
+   <abstract>Interview with Kathy Waltosz, a volunteer with Samaritan's Purse,conducted by Laura Romans. Waltosz provides an overview of Samaritan's Purse and discusses the efforts in helping survivors to sift through ashes of burned homes for valuables. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "I've seen a range of heat damage in different fires, and of course when a house burns and it doesn't have any water coming on it, it'll just go up in flames and then it'll get quite hot, to the point where it will consume everything in the house. If there's no water that comes on it when the fire is burned out in a house, you can have a one story house and what's left is about two to three inches of debris."</abstract>
+   <name>
+      <namePart>Waltosz, Kathy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Romans, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-06-11</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/nr90011535">Washington</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>01:13:17</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Recovery specialists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85124049">
+      <topic>Social service</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147560">
+      <topic>Women in charitable work</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Kathy Waltosz, 2020-06-11</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>I've seen a range of heat damage in different fires, and of course when a house burns and it doesn't have any water coming on it, it'll just go up in flames and then it'll get quite hot, to the point where it will consume everything in the house. If there's no water that comes on it when the fire is burned out in a house, you can have a one story house and what's left is about two to three inches of debris.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:00"
+                            endTime="00:01:55">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us some about your life, career, and background?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:55"
+                            endTime="00:04:40">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you tell us what Samaritan's Purse is, what they do, and how you became involved with them?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:40"
+                            endTime="00:06:00">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us some about the other places and disasters that you helped with prior to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:00"
+                            endTime="00:09:44">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you become aware of the wildfires in Gatlinburg and how did you become involved there?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:44"
+                            endTime="00:16:18">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like when you first got to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:18"
+                            endTime="00:41:04">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was the actual work like? What did a typical day look like when you went out?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:04"
+                            endTime="00:42:27">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>On average, how much time do you and your team spend on a property?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:42:27"
+                            endTime="00:44:51">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long did you stay and work in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:44:51"
+                            endTime="00:53:14">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Mentioning difference between previous jobs, is there anything else that you've noticed about this wildfire or the community in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:53:14"
+                            endTime="01:13:17">
+            <pbcore:pbcoreIdentifier source="local">20200611_Waltosz_Kathy_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that we haven't talked about related to the fires that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/kathy-waltosz-2020-06-11/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:99/datastream/TN/view</url>
+   </location>
+</mods>

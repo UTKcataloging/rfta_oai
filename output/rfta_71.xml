@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200313_Praskievicz_Sarah</identifier>
+   <identifier type="pid">rfta:71</identifier>
+   <titleInfo>
+      <title>Interview with Sarah Praskievicz, 2020-03-13</title>
+   </titleInfo>
+   <abstract>Interview with Sarah Praskievicz, professor with the Department of Geography, Environment, and Sustainability at the University of North Carolina at Greensboro. Praskievicz discusses her research on the effects of the fire on the water systems of the Great Smoky Mountain National Park. Conducted over Zoom. This is a representative quote from the interview: One thing we thought we might see was a relationship between the percentage of the drainage area of each site that was within the burned area. And we did not see that pattern. There was no apparent relationship. Instead, it seemed to be much more affected by the burn severity immediately adjacent to the channels.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2011119435">
+      <namePart>Praskievicz, Sarah</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-03-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n82025267">University of North Carolina at Greensboro</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:32:35</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Fire and forestry experts</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2008005274">
+      <topic>Soils--Effect of fires on</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85114246">
+      <topic>River surveys</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Sarah Praskievicz, 2020-03-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>One thing we thought we might see was a relationship between the percentage of the drainage area of each site that was within the burned area. And we did not see that pattern. There was no apparent relationship. Instead, it seemed to be much more affected by the burn severity immediately adjacent to the channels.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:03"
+                            endTime="00:01:43">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you state your name and tell us about your role at UNC Greensborough?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:43"
+                            endTime="00:02:34">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you find yourself moving into this career?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:34"
+                            endTime="00:04:12">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What is your general research area prior to the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:12"
+                            endTime="00:05:42">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about how this fire was an anomaly?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:42"
+                            endTime="00:08:37">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was your experience during the time of the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:37"
+                            endTime="00:13:42">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you decide on your research concerning the fire and your methodologies?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:42"
+                            endTime="00:16:21">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you're surveying the wood, what is that process like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:21"
+                            endTime="00:17:34">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you pick your plots for analysis?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:34"
+                            endTime="00:22:34">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After you gather all this data, what is the next step of the process?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:34"
+                            endTime="00:25:30">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you see this as a benefit of the wildfire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:30"
+                            endTime="00:27:09">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you see your research being built upon? Do you think other scientists in other fields may use the data you've collected?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:09"
+                            endTime="00:31:24">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are the other impacts from your research on your discipline and the public?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:24"
+                            endTime="00:32:35">
+            <pbcore:pbcoreIdentifier source="local">20200313_Praskievicz_Sarah_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that we haven't talked about that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/sarah-praskievicz-2020-03-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:71/datastream/TN/view</url>
+   </location>
+</mods>

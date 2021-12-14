@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200515_Jeffrey_Tyler</identifier>
+   <identifier type="pid">rfta:94</identifier>
+   <titleInfo>
+      <title>Interview with Tyler Jeffrey, 2020-05-15</title>
+   </titleInfo>
+   <abstract>Interview with Tyler Jeffrey, a meterologist, conducted by Laura Romans. Jeffrey discusses the surrounding conditions that caused the severity of the wildfires, including the drought and high winds at the time. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: This time people were waiting with, you know, with--just prayerfully for this rain to come, and it just didn't. It just took forever.</abstract>
+   <name>
+      <namePart>Jeffrey, Tyler</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Romans, Laura</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-05-15</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79075123">Chattanooga (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:49:54</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Meteorologists</topic>
+   </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
+      <topic>Climatic changes</topic>
+   </subject>
+   <note displayLabel="Browse">Ecology</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85048479">
+      <topic>Fire ecology</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Tyler Jeffrey, 2020-05-15</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>This time people were waiting with, you know, with--just prayerfully for this rain to come, and it just didn't. It just took forever.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:57"
+                            endTime="00:01:59">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name for us? Can you talk about your history in East Tennessee and how long you've lived here?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:59"
+                            endTime="00:04:18">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your education history, what took you to the University of Tennessee, and where did you go from there?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:18"
+                            endTime="00:06:25">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you find that your background in psychology has any connection with moving into environmental science?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:25"
+                            endTime="00:12:57">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you also tell us about your career path?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:57"
+                            endTime="00:18:47">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you remember about the time of the wildfire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:47"
+                            endTime="00:26:09">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At what point did you think that there was a potential research opportunity?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:09"
+                            endTime="00:35:41">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you were putting this research together, was there anything that surprised you while synthesizing everything?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:41"
+                            endTime="00:41:36">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel your research on this event informs the field of environmental science?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:36"
+                            endTime="00:47:58">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you think is the likelihood of this fire happening again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:47:58"
+                            endTime="00:49:54">
+            <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything about your research or findings that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/tyler-jeffrey-2020-05-15/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:94/datastream/TN/view</url>
+   </location>
+</mods>

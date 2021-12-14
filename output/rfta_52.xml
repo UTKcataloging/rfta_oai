@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200111_May_Anne</identifier>
+   <identifier type="pid">rfta:52</identifier>
+   <titleInfo>
+      <title>Interview with Anne May, 2020-01-11</title>
+   </titleInfo>
+   <abstract>Interview with Anne May of Arrowmont School of Arts and Crafts. May provides a background for the school before discussing the events of the fire. She recounts helping the artists in residence to evacuate from the campus before evacuating from the town herself. She then tells about the community involvement Arrowmont had in Gatlinburg during the recovery period. This is a representative quote from the interview: "There were people out there that their interest was knowing that in order for Gatlinburg to come back, people were gonna have to be very purposeful in how they contributed to that effort."</abstract>
+   <name>
+      <namePart>May, Anne</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-01-11</dateCreated>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/9971153">The Park Vista A Doubletree By Hilton Hotel Gatlinburg</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:55:52</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Business owners and staff</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/9918584">
+      <geographic>Arrowmont School of Arts and Crafts</geographic>
+      <cartographics>
+         <coordinates>35.712925, -83.5104784</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2001080757">
+      <name>
+         <namePart>Arrowmont School of Arts and Crafts</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200111_May_Anne</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Anne May, 2020-01-11</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"There were people out there that their interest was knowing that in order for Gatlinburg to come back, people were gonna have to be very purposeful in how they contributed to that effort."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:50"
+                            endTime="00:01:49">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:09:38" endTime="00:13:36">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Arrowmont School of Arts and Crafts</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Arrowmont School of Arts and Crafts.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:49"
+                            endTime="00:02:26">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tell me about your work at Arrowmont.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:26"
+                            endTime="00:03:48">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Will you tell us about the Arrowmont School of Arts and Crafts?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:48"
+                            endTime="00:04:55">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the Artist in Residence program?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:55"
+                            endTime="00:06:04">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What is Arrowmon't situation within Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:04"
+                            endTime="00:07:02">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there any other community involvement that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:02"
+                            endTime="00:08:31">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Tell us about the weeks and days leading to the wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:31"
+                            endTime="00:09:25">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Leading up to the fires, were people talking about this becoming something potentially worse?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:25"
+                            endTime="00:12:33">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>At what point did you become concerned?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:33"
+                            endTime="00:13:12">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When people were bringing their artwork to Arrowmont, did you hear them talking about what they had seen?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:12"
+                            endTime="00:13:45">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time is it after the artists in residence were evacuated?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:45"
+                            endTime="00:14:28">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What did you see when evacuating?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:28"
+                            endTime="00:16:08">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were you thinking on the drive home? Were you alone?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:08"
+                            endTime="00:16:08">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Once you got home, what were your next actions?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:08"
+                            endTime="00:17:50">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Once you got home, what were your next actions?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:50"
+                            endTime="00:19:24">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you know what was going on at Arrowmont?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:24"
+                            endTime="00:20:05">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you left your home, where did you go?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:05"
+                            endTime="00:20:56">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When you get to Knoxville, what happens then?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:56"
+                            endTime="00:22:08">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>So you were still able to call Bill (husband) through the night?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:08"
+                            endTime="00:22:43">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Had you been watching the news?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:43"
+                            endTime="00:23:35">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did social media play a role that evening?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:35"
+                            endTime="00:24:42">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you hear from anyone that had lost their home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:42"
+                            endTime="00:26:47">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you learn that Arrowmont had survived?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:47"
+                            endTime="00:28:18">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you learn that Arrowmont had survived?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:18"
+                            endTime="00:30:08">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe what it was like seeing the devastation?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:08"
+                            endTime="00:31:45">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did Arrowmont bring the staff back together? What were those days like when you all came together after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:45"
+                            endTime="00:32:52">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you having conversations with the donors at the time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:52"
+                            endTime="00:34:59">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you remember if any of the volunteers at Arrowmont had lost their homes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:34:59"
+                            endTime="00:37:44">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What are some ways that Arrowmont supported the community after the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:44"
+                            endTime="00:39:34">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q30</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any memorable stories from that time that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:39:34"
+                            endTime="00:41:20">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q31</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us about the event on Christmas at Arrowmont?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:20"
+                            endTime="00:43:52">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q32</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell me about the recovery efforts in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:43:52"
+                            endTime="00:45:44">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q33</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How has the wildfire impacted you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 33</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:45:44"
+                            endTime="00:47:15">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q34</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel the fires shaped community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 34</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:47:15"
+                            endTime="00:49:28">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q35</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you share your thoughts on the phrase "Mountain Tough" that came out of the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 35</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:49:28"
+                            endTime="00:51:44">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q36</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you feel that this event could happen again? Is Gatlinburg prepared if that were to happen?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 36</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:51:44"
+                            endTime="00:53:32">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q37</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there anything else surprising or good that came out of this?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 37</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:53:32"
+                            endTime="00:55:19">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q38</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Could you tell us what the value in preserving this event is?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 38</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:55:19"
+                            endTime="00:55:52">
+            <pbcore:pbcoreIdentifier source="local">20200111_May_Anne_Q39</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that we haven't talked about that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 39</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/anne-may-2020-01-11/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:52/datastream/TN/view</url>
+   </location>
+</mods>

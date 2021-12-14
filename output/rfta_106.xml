@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200804_Ray_Lukas</identifier>
+   <identifier type="pid">rfta:106</identifier>
+   <titleInfo>
+      <title>Interview with Lukas Ray, 2020-08-04</title>
+   </titleInfo>
+   <abstract>Interview with Lukas Ray, formerly with Appalachian Service Project, conducted by Casey Kaufman. Ray discusses the process through which families and individuals were identified for the home rebuilding process. He  Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "I think getting into cleaning up the properties after we were there would be some of the hardest things you do, because we would come across things that we would put off to the side that were burnt, obviously burnt, but could be a family treasurer or something they wanted. They won't. It's amazing what things do survive fires when you're digging through rubbles."</abstract>
+   <name>
+      <namePart>Ray, Lukas</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-08-04</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79059831">West Virginia</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:48:04</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Recovery specialists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85124049">
+      <topic>Social service</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12212302">
+      <geographic>Appalachia</geographic>
+      <cartographics>
+         <coordinates>37.94632, -80.21925</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Lukas Ray, 2020-08-04</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>I think getting into cleaning up the properties after we were there would be some of the hardest things you do, because we would come across things that we would put off to the side that were burnt, obviously burnt, but could be a family treasurer or something they wanted. They won't. It's amazing what things do survive fires when you're digging through rubbles.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:55"
+                            endTime="00:11:27">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you provide an overview of Appalachian Service Project and what your role was?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:27"
+                            endTime="00:15:54">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>As you arrive in June 2017, what was it like recruiting volunteers? How did you get people on board and what were they like?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:54"
+                            endTime="00:23:12">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you identify the families and individuals that received assistance?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:12"
+                            endTime="00:28:45">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talke about some of the site visits you did to kick off the evaluations of the homeowners? What were the situations of some of the people at that time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:45"
+                            endTime="00:35:37">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any other memories that you want to share of homeowners or the rebuild process?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:35:37"
+                            endTime="00:41:18">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did future planning for another fire affect the rebuild process?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:41:18"
+                            endTime="00:46:48">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you been able to stay in touch with any of the homeowners? What has the process looked like over the past few years as they have settled in?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:46:48"
+                            endTime="00:48:04">
+            <pbcore:pbcoreIdentifier source="local">20200804_Ray_Lukas_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that we haven't discusses that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/lukas-ray-2020-08-04/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:106/datastream/TN/view</url>
+   </location>
+</mods>

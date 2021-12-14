@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200313_Sweeney_Stanton</identifier>
+   <identifier type="pid">rfta:75</identifier>
+   <titleInfo>
+      <title>Interview with Stanton Sweeney, 2020-03-13</title>
+   </titleInfo>
+   <abstract>Interview with Stanton Sweeney, current student at the University of Tennessee Knoxville, conducted by Casey Kaufman. Sweeney was a high school student during the time of the fire and shares this perspective. He recounts evacuating from school due to the smoke, and then evacuating from the city. He also shares about returning to his home to find that it had been destroyed in the fires. This is a representative quote from the interview: And actually that night before we went to bed, we were praying for rain, because it had not rained in forever. And it actually ended up raining. And we were going outside, and it started sprinkling. And that was a huge relief. Just knowing that there was rain on the way that could help.</abstract>
+   <name>
+      <namePart>Sweeney, Stanton</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-03-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:31:27</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Stanton Sweeney, 2020-03-13</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>And actually that night before we went to bed, we were praying for rain, because it had not rained in forever. And it actually ended up raining. And we were going outside, and it started sprinkling. And that was a huge relief. Just knowing that there was rain on the way that could help.</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:46"
+                            endTime="00:01:39">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us a little about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:39"
+                            endTime="00:02:04">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was it like moving from Memphis, a city in West Tennessee, to a tourist city?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:04"
+                            endTime="00:02:26">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you grow up going to Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:26"
+                            endTime="00:02:51">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you tell us what you're doing at UT?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:51"
+                            endTime="00:06:42">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What do you recall about the months leading up to the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:42"
+                            endTime="00:07:04">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time was it that you evacuated to Sevierville?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:04"
+                            endTime="00:08:07">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did yo think that you would be back?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:07"
+                            endTime="00:10:20">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did all of your family leave together?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:20"
+                            endTime="00:10:40">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you communicating with your friends that hadn't evacuated?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:40"
+                            endTime="00:11:41">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were you discussing with your friends and your mom after seeing the fire on the news?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:41"
+                            endTime="00:12:43">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time did you go to sleep that night?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:43"
+                            endTime="00:16:50">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What time did your dad reunite with your family?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:50"
+                            endTime="00:19:27">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was your car also destroyed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:27"
+                            endTime="00:20:15">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Where was the supply center located?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:20:15"
+                            endTime="00:21:22">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did some of your friends also lose their homes?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:22"
+                            endTime="00:22:00">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is the community center you mentioned Rocky Top?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:00"
+                            endTime="00:24:00">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did the teachers and faculty at school handle the return?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:00"
+                            endTime="00:25:00">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Now that it's been three and a half years, what is your assessment of Gatlinburg's recovery?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:00"
+                            endTime="00:25:30">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do people still come to Gatlinburg and ask about the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:30"
+                            endTime="00:26:45">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How has the wildfire affected you personally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:45"
+                            endTime="00:27:40">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you stay in touch with the people who were in your old neighborhood?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:40"
+                            endTime="00:28:03">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel the fires impacted community relations?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:28:03"
+                            endTime="00:29:02">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you started thinking about future provisions in caswe something does happen again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:29:02"
+                            endTime="00:30:17">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you started thinking about future provisions in caswe something does happen again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:30:17"
+                            endTime="00:31:27">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are there any other surprising or positive outcomes from the fire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions" startTime="" endTime="00:31:27">
+            <pbcore:pbcoreIdentifier source="local">20200313_Sweeney_Stanton_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything elese that you want to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/stanton-sweeney-2020-03-13/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:75/datastream/TN/view</url>
+   </location>
+</mods>

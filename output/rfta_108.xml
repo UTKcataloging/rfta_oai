@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20200814_Barnett_Helen</identifier>
+   <identifier type="pid">rfta:108</identifier>
+   <titleInfo>
+      <title>Interview with Helen Barnett, 2020-08-14</title>
+   </titleInfo>
+   <abstract>Interview with Helen Barnett, resident of Sevier County, conducted by Jennifer Benedetto Beals. Barnett discusses the aid provided by her church, the Great Smoky Mountains Church of Christ. The efforts grew from providing water and food to survivors to assisting with bills and large items as people were rebuilding. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "Well the emotional changes with people is just taking time. That's why we try to step in as much as we did the financial. They didn't have to worry about that. They could take more care of their selves, their emotional stability."</abstract>
+   <name>
+      <namePart>Barnett, Helen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Benedetto Beals, Jennifer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2020-08-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n82273669">Sevierville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:28:28</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Recovery specialists</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85124049">
+      <topic>Social service</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12382325">
+      <geographic>Great Smoky Mountains Church of Christ</geographic>
+      <cartographics>
+         <coordinates>35.78871, -83.54941</coordinates>
+      </cartographics>
+   </subject>
+   <note displayLabel="Browse">Dollywood and Pigeon Forge</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649251">
+      <geographic>Pigeon Forge</geographic>
+      <cartographics>
+         <coordinates>35.78842, -83.55433</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Helen Barnett, 2020-08-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>Well the emotional changes with people is just taking time. That's why we try to step in as much as we did the financial. They didn't have to worry about that. They could take more care of their selves, their emotional stability. </pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:51"
+                            endTime="00:01:21">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and share your reason for participating in this project?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:21"
+                            endTime="00:02:04">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long have you lived in Sevierville? What is your life like there?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:04"
+                            endTime="00:02:53">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the days like leading up to the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:53"
+                            endTime="00:03:50">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you realize that it wasn't just smoke, but a fire sweeping through Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:50"
+                            endTime="00:05:19">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you go to the church the next morning to help victims of the fire? What did you do there?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:19"
+                            endTime="00:06:15">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What were the people coming to you for help like? What were their experiences, or how were they reacting?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:15"
+                            endTime="00:07:33">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you realize right away how many homes had been lost?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:33"
+                            endTime="00:09:25">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How many people reached out to the church for help?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:25"
+                            endTime="00:10:31">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How long was the church providing support and how did it change over time?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:31"
+                            endTime="00:11:53">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you kept in touch with any of the families or individuals?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:53"
+                            endTime="00:12:18">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you hear back from any of the people you helped?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:18"
+                            endTime="00:12:31">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Prior to the fires, had the church provided any relief efforts?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:31"
+                            endTime="00:13:03">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How would you assess the recovery efforts in Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:03"
+                            endTime="00:13:55">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>What was similar or different between your experiences helping after Katrina and these wildfires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:55"
+                            endTime="00:14:58">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How do you feel this impacted the community and your church long-term?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:58"
+                            endTime="00:15:19">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did this impact you emotionally?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:15:19"
+                            endTime="00:16:27">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were there any changes in the community afterwards?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:16:27"
+                            endTime="00:17:02">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you know of any people that left after the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:02"
+                            endTime="00:18:00">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you seen any new members in your church? Has the church done any more relief efforts?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:00"
+                            endTime="00:18:35">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Have you thought about what you might do if something similar happens?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:35"
+                            endTime="00:19:48">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q21</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there anything good or surprising that came out of this tragedy?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:19:48"
+                            endTime="00:21:08">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q22</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything else that you can tell us about the experience? Is there anything you wish would have gone differently?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:08"
+                            endTime="00:22:14">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q23</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you mobilize in the very beginning? Were church members already in communications to meet the next day?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:22:14"
+                            endTime="00:23:02">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q24</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you mobilize in the very beginning? Were church members already in communications to meet the next day?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:02"
+                            endTime="00:24:16">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q25</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>When did you realize how large of an impact this would have on the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:24:16"
+                            endTime="00:25:35">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q26</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that we haven't covered that you would like to share? Would you do the same thing if this happened again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:35"
+                            endTime="00:26:28">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q27</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you think people had a hard time accepting the help? So you were actively reaching out to people instead of just waiting fot them to ask?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:26:28"
+                            endTime="00:27:23">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q28</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did you have people seeking temporary shelter because they didn't realize they had lost everything?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:27:23"
+                            endTime="00:28:28">
+            <pbcore:pbcoreIdentifier source="local">20200814_Barnett_Helen_Q29</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Are you planning on staying in Sevierville?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/helen-barnett-2020-08-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:108/datastream/TN/view</url>
+   </location>
+</mods>
