@@ -25,7 +25,7 @@ class MODS:
         self.slug = self.__choose_slug()
         self.pid = self.__get_pid()
         self.mods_path = f"https://digital.lib.utk.edu/collections/islandora/object/{self.pid}/datastream/MODS"
-        self.__get_islandora_mods()
+        self.final_mods = self.__get_islandora_mods()
 
     def __choose_slug(self):
         label = self.manifest['label']['en'][0]
@@ -47,14 +47,18 @@ class MODS:
         original_mods = r.content.decode('utf-8')
         mods_minus_close = original_mods.replace('</mods>\n', '').replace('</mods>', '')
         final_mods = f"{mods_minus_close}\n{self.__add_location_node()}\n</mods>\n"
-        print(final_mods)
+        return final_mods.replace('\n\n', '\n')
 
     def __add_location_node(self):
         node = f"""   <location>\n      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>\n      <url access="object in context" usage="primary display">{self.slug}</url>\n      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/{self.pid}/datastream/TN/view</url>\n   </location>"""
         return node
 
+    def download(self):
+        with open(f'output/{self.pid.replace(":", "_")}.xml', 'w') as my_mods:
+            my_mods.write(self.final_mods)
+
 if __name__ == "__main__":
     # collection = "https://digital.lib.utk.edu/static/iiif/collections/rfta_completed.json"
     # x = OAIGenerator(collection)
     mods = MODS('https://digital.lib.utk.edu/assemble/manifest/rfta/6')
-    print(mods.pid)
+    mods.download()
