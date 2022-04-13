@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20220114_Braddock_Paige_edited</identifier>
+   <titleInfo>
+      <title>Interview with Paige Braddock, 2022-01-14</title>
+   </titleInfo>
+   <abstract>Interview with Paige Braddock, Chief Creative Officer for Charles Shulz's studio and former East Tennessee resident, conducted by Casey Kaufman. Braddock discusses her time in East Tennessee and relates her California wildfire experiences to the wildfire in Gatlinburg. She explains how her experiences have helped her create artwork for the Gatlinburg wildfire. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "If there is a story or an event or something that is almost impossible to illustrate with a photograph, sometimes a drawing or illustration can get to the heart of that so that you're not so much showing a representation of something that happened, but you're getting at the emotion behind what happened."</abstract>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941">
+      <namePart>Braddock, Paige</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2022-01-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n82041165">Sebastopol (Calif.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:22:21</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Artists</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh85008298">
+      <topic>Artists and community</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh97000057">
+      <topic>Disasters in art</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Paige Braddock, 2022-01-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"If there is a story or an event or something that is almost impossible to illustrate with a photograph, sometimes a drawing or illustration can get to the heart of that so that you're not so much showing a representation of something that happened, but you're getting at the emotion behind what happened."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:52" 
+                            endTime="00:01:53">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:53" 
+                            endTime="00:03:18">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>I know you're also the author of Jane's World. Can you talk about that?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:03:18" 
+                            endTime="00:04:24">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you find your career in illustration?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:24" 
+                            endTime="00:05:59">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Would you share your perspective on how visual storytelling helps shape public understanding of events like the wildfire of 2016?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:59" 
+                            endTime="00:07:04">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your time spent in the East Tennessee region?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:04" 
+                            endTime="00:08:21">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about when you first became aware of the wildfire?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:21" 
+                            endTime="00:11:04">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything you want to share about the comparisons or contrasts of disasters with fire out west versus in the east?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:04" 
+                            endTime="00:14:53">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe what it was like listening to people tell their experiences of this event?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:14:53" 
+                            endTime="00:17:05">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you walk us through your artistic process of producing art out of these stories?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:17:05" 
+                            endTime="00:18:36">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was the process of creating art out of moving images something new for you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:18:36" 
+                            endTime="00:21:30">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Did any thoughts come to mind as you were telling the story of this wildfire disaster during the midst of the ongoing COVID-19 disaster?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:21:30" 
+                            endTime="00:22:21">
+            <pbcore:pbcoreIdentifier source="local">20220114_Braddock_Paige_edited_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything we haven't talked about that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/paige-braddock-2022-01-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:177/datastream/TN/view</url>
+   </location>
+</mods>

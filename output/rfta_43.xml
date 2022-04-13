@@ -92,8 +92,8 @@
          <pbcore:pbcoreTitle>Interview with Leslie Ackerson, 2020-01-09</pbcore:pbcoreTitle>
          <pbcore:pbcoreDescription>"There's like ten houses on fire, and you hear these fire alarms going off. That was the big thing for me at the end of the night: this is what it looks like over this entire area."</pbcore:pbcoreDescription>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:00:42"
-                            endTime="00:01:05">
+                            startTime="00:00:48"
+                            endTime="00:01:10">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q1</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Can you state your name and your role at WBIR?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
@@ -104,8 +104,8 @@
             <pbcore:pbcoreDescription>Interviewee discusses Mynatt Park.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:01:05"
-                            endTime="00:01:46">
+                            startTime="00:01:10"
+                            endTime="00:01:57">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q2</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Why were you interested in participating in this project?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
@@ -116,10 +116,10 @@
             <pbcore:pbcoreDescription>Interviewee discusses Gatlinburg City Hall.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:01:46"
-                            endTime="00:02:13">
+                            startTime="00:01:57"
+                            endTime="00:02:25">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q3</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Can you tell me your bckground, and your length of time in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Can you tell me your background, and your length of time in the area?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="geographic" startTime="00:20:50" endTime="00:22:35">
@@ -128,235 +128,231 @@
             <pbcore:pbcoreDescription>Interviewee discusses Gatlinburg-Pittman High School.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:02:13"
-                            endTime="00:02:45">
+                            startTime="00:02:25"
+                            endTime="00:02:57">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q4</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Do you have family in the Gatlinburg area?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:02:45"
-                            endTime="00:03:49">
+                            startTime="00:02:57"
+                            endTime="00:04:01">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q5</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Can you tell me about your interest in journalism?
-</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Can you tell me about your interest in journalism?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:03:49"
-                            endTime="00:05:12">
+                            startTime="00:04:01"
+                            endTime="00:05:24">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q6</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Can you tell us about WBIR?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:05:12"
-                            endTime="00:06:53">
+                            startTime="00:05:24"
+                            endTime="00:07:03">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q7</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Can you tell me about the days and weeks leading up to the fire?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:06:53"
-                            endTime="00:08:05">
+                            startTime="00:07:03"
+                            endTime="00:08:18">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q8</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Did you feel that there was some response to the coverage of these events?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:08:05"
-                            endTime="00:09:54">
+                            startTime="00:08:18"
+                            endTime="00:10:05">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q9</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>What was the week before the fire like?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:09:54"
-                            endTime="00:11:50">
+                            startTime="00:10:05"
+                            endTime="00:12:08">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q10</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>At what point did you and your team become concerned about the fire?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:11:50"
-                            endTime="00:13:48">
+                            startTime="00:12:08"
+                            endTime="00:14:02">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q11</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>What is it like being a reporter going into a voluntary evacuation? What are you looking for?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:13:48"
-                            endTime="00:14:22">
+                            startTime="00:14:02"
+                            endTime="00:14:36">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q12</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Were you by yourself at this point?
-</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Were you by yourself at this point?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:14:22"
-                            endTime="00:14:42">
+                            startTime="00:14:36"
+                            endTime="00:14:55">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q13</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>So this is on the Monday before the fire?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:14:42"
-                            endTime="00:16:20">
+                            startTime="00:14:55"
+                            endTime="00:16:35">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q14</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Did you ever feel fear?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:16:20"
-                            endTime="00:17:55">
+                            startTime="00:16:35"
+                            endTime="00:18:07">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q15</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Were the evacuations still volutary at this point?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:17:55"
-                            endTime="00:18:30">
+                            startTime="00:18:07"
+                            endTime="00:18:42">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q16</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>At the press conference, was it mostly the elected officials?
-</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>At the press conference, was it mostly the elected officials?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:18:30"
-                            endTime="00:19:48">
+                            startTime="00:18:42"
+                            endTime="00:20:00">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q17</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Did your teammate make it in?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:19:48"
-                            endTime="00:20:07">
+                            startTime="00:20:00"
+                            endTime="00:20:19">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q18</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>What do you mean by taping it?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:20:07"
-                            endTime="00:22:43">
+                            startTime="00:20:19"
+                            endTime="00:22:56">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q19</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Were you still at the fire station?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:22:43"
-                            endTime="00:24:15">
+                            startTime="00:22:56"
+                            endTime="00:24:27">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q20</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Was this Tuesday morning?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:24:15"
-                            endTime="00:25:50">
+                            startTime="00:24:27"
+                            endTime="00:26:02">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q21</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>What neighborhood was it?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 21</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:25:50"
-                            endTime="00:26:45">
+                            startTime="00:26:02"
+                            endTime="00:26:57">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q22</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Was the morning crew able to get into the city?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 22</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:26:45"
-                            endTime="00:27:28">
+                            startTime="00:26:57"
+                            endTime="00:27:40">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q23</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>How were you feeling when you got home?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 23</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:27:28"
-                            endTime="00:28:38">
+                            startTime="00:27:40"
+                            endTime="00:28:50">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q24</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>How were you feeling when you got home?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>What was it like going back into Gatlinburg the day after the fire?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 24</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:28:38"
-                            endTime="00:30:56">
+                            startTime="00:28:50"
+                            endTime="00:31:08">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q25</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Can you share some of the memorable interviews after the fire?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 25</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:30:56"
-                            endTime="00:34:00">
+                            startTime="00:31:08"
+                            endTime="00:34:12">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q26</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>In the days after the fire, did you have to consider angles or other approaches to your material?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 26</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:34:00"
-                            endTime="00:34:51">
+                            startTime="00:34:12"
+                            endTime="00:35:03">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q27</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>How did social media play a role in your disseminating information?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 27</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:34:51"
-                            endTime="00:36:52">
+                            startTime="00:35:03"
+                            endTime="00:37:07">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q28</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Did WBIR include the changing climate during its coverage of the wildfire?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 28</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:36:52"
-                            endTime="00:38:41">
+                            startTime="00:37:07"
+                            endTime="00:38:53">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q29</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>How have you seen the community recover?
-</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>How have you seen the community recover?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 29</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:38:41"
-                            endTime="00:39:32">
+                            startTime="00:38:53"
+                            endTime="00:39:45">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q30</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Were there any surprising or good outcomes from this event?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 30</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:39:32"
-                            endTime="00:39:42">
+                            startTime="00:39:45"
+                            endTime="00:39:54">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q31</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Is there anything else you want to share that I haven't asked about?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 31</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:39:42"
-                            endTime="00:41:34">
+                            startTime="00:39:54"
+                            endTime="00:41:48">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q32</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>How did you keep your cellphone charged? What were the challenges of gathering the coverage, not just the people, but the logistics?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 32</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:41:34"
-                            endTime="00:42:35">
+                            startTime="00:41:48"
+                            endTime="00:42:47">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q33</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Did you experience any unwelcoming people?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 33</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:42:35"
-                            endTime="00:43:31">
+                            startTime="00:42:47"
+                            endTime="00:43:43">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q34</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>How did you feel when you and Tim couldn't reach the station?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 34</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:43:31"
-                            endTime="00:44:41">
+                            startTime="00:43:43"
+                            endTime="00:44:53">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q35</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Is there anything else we haven't talked about?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 35</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
-                            startTime="00:44:41"
+                            startTime="00:44:53"
                             endTime="00:45:46">
             <pbcore:pbcoreIdentifier source="local">20200109_Ackerson_Leslie_Q36</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Do you have friends that you communicate with from other stations?</pbcore:pbcoreTitle>

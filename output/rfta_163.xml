@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036</identifier>
+   <identifier type="pid">rfta:163</identifier>
+   <titleInfo>
+      <title>Interview with Stacey Adam and Chris Szaton, 2017-04-24</title>
+   </titleInfo>
+   <abstract>Interview with Stacey Adam and Chris Szaton, residents of Gatlinburg. Adam and Szaton discuss the day of the fire and some of the early signs that this was not a typical fire. They recount the safeguards to prepare their home for disaster and evacuation. They also discuss the effect the fire had on their neighborhood and the efforts of the community to begin rebuilding. This is a representative quote from the interview: "The fire was so hot that when you lose your place there's nothing left but the foundation or cinder blocks."</abstract>
+   <name>
+      <namePart>Adam, Stacey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Szaton, Chris</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-04-24</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:41:37</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Stacey Adam and Chris Szaton, 2017-04-24</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"The fire was so hot that when you lose your place there's nothing left but the foundation or cinder blocks."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:07:13">
+            <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:07:13" endTime="00:14:03">
+            <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Destruction from the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Destruction from the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:14:03" endTime="00:21:20">
+            <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Early Signs</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Early Signs chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:21:20" endTime="00:27:23">
+            <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Effect on the Neighborhood</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Effect on the Neighborhood chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:27:23" endTime="00:34:09">
+            <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036_C5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Returning after the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Returning after the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:34:09" endTime="00:41:37">
+            <pbcore:pbcoreIdentifier source="local">Stacey_Adam_Chris_Szaton_4_24_17_RNC036_C6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Community Rebuilding</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Community Rebuilding chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/stacey-adam-and-chris-szaton-2017-04-24/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:163/datastream/TN/view</url>
+   </location>
+</mods>

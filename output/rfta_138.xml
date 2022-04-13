@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Hillary_Hunter_3_15_17_VN800046</identifier>
+   <identifier type="pid">rfta:138</identifier>
+   <titleInfo>
+      <title>Interview with Hilary Hunter, 2017-03-15</title>
+   </titleInfo>
+   <abstract>Interview with Hilary Hunter, resident of Gatlinburg. Hunter recounts the surprising speed of the fire and the severity of the wind. She discusses her evacuation stay and the return to find her home intact. This is a representative quote from the interview: "Then I went acoss the street to my neighbors and told them we have to leave, panicking at this point."</abstract>
+   <name>
+      <namePart>Hunter, Hilary</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-03-15</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:18:51</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/5922198">
+      <geographic>Church Street</geographic>
+      <cartographics>
+         <coordinates>35.7157903, -83.4968218</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Hillary_Hunter_3_15_17_VN800046</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Hilary Hunter, 2017-03-15</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"Then I went acoss the street to my neighbors and told them we have to leave, panicking at this point."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="geographic" startTime="00:02:00" endTime="00:05:39">
+            <pbcore:pbcoreIdentifier source="local">Hillary_Hunter_3_15_17_VN800046_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Church Street</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Church Street.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:05:39">
+            <pbcore:pbcoreIdentifier source="local">Hillary_Hunter_3_15_17_VN800046_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Early Signs of the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Early Signs of the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:05:39" endTime="00:10:49">
+            <pbcore:pbcoreIdentifier source="local">Hillary_Hunter_3_15_17_VN800046_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Evacuation and Return</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Evacuation and Return chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:10:49" endTime="00:18:51">
+            <pbcore:pbcoreIdentifier source="local">Hillary_Hunter_3_15_17_VN800046_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Wildfire in Hindsight</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Wildfire in Hindsight chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/hilary-hunter-2017-03-15/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:138/datastream/TN/view</url>
+   </location>
+</mods>

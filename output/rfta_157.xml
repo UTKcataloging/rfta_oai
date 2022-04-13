@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Susan_Melchor_3_22_17_VN800048</identifier>
+   <identifier type="pid">rfta:157</identifier>
+   <titleInfo>
+      <title>Interview with Susan Melchor, 2017-03-22</title>
+   </titleInfo>
+   <abstract>Interview with Susan Melchor, resident of Gatlinburg. Melchor recounts the day of the fire and the uneasiness she felt prior. She discusses the pain of losing her home and the efforts from charity organizations to help rebuild her home. This is a representative quote from the interview: "Your home is your refuge, and I just want to go home."</abstract>
+   <name>
+      <namePart>Melchor, Susan</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-03-22</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:19:31</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Susan_Melchor_3_22_17_VN800048</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Susan Melchor, 2017-03-22</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"Your home is your refuge, and I just want to go home."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:06:40">
+            <pbcore:pbcoreIdentifier source="local">Susan_Melchor_3_22_17_VN800048_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:06:40" endTime="00:13:53">
+            <pbcore:pbcoreIdentifier source="local">Susan_Melchor_3_22_17_VN800048_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Community Giving</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Community Giving chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:13:53" endTime="00:19:31">
+            <pbcore:pbcoreIdentifier source="local">Susan_Melchor_3_22_17_VN800048_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Waiting to Rebuild</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Waiting to Rebuild chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/susan-melchor-2017-03-22/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:157/datastream/TN/view</url>
+   </location>
+</mods>

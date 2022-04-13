@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20220114_Ramsey_Marshall_edited</identifier>
+   <titleInfo>
+      <title>Interview with Marshall Ramsey, 2022-01-14</title>
+   </titleInfo>
+   <abstract>Interview with Marshall Ramsey, editor-at-large for the Mississippi Today and nationally recognized editorial cartoonist, conducted by Casey Kaufman. Ramsey discusses his ties to the Smoky Mountains and the impact the wildfire had on his family and friends. He explains how the wildfire has emotionally influenced some of his cartoons. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "To look back on the Gatlinburg fire five years ago and to see how that city, the Pigeon Forge area, and some of the areas in Wears Valley and Cobbly Nob, to see how the recovery has happened and to see why it happened the way it did. Because people love the Smokies, because people loved each other, and because people cared about each other."</abstract>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282">
+      <namePart>Ramsey, Marshall</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kaufman, Casey</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2022-01-14</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n89223846">Madison (Miss.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:43:38</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Artists</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh85008298">
+      <topic>Artists and community</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh97000057">
+      <topic>Disasters in art</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh93001665">
+      <topic>Editorial cartoonists</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Marshall Ramsey, 2022-01-14</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"To look back on the Gatlinburg fire five years ago and to see how that city, the Pigeon Forge area, and some of the areas in Wears Valley and Cobbly Nob, to see how the recovery has happened and to see why it happened the way it did. Because people love the Smokies, because people loved each other, and because people cared about each other."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:49" 
+                            endTime="00:01:32">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you state your name and tell us about yourself?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:32" 
+                            endTime="00:04:19">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your career as an editorial cartoonist and what you've documented over the past 25 years?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:19" 
+                            endTime="00:06:18">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your perspective on the role of editorial cartoons and shaping public understanding?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:18" 
+                            endTime="00:09:14">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your connection to the Smoky Mountains?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:14" 
+                            endTime="00:11:38">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk more about what the days following the wildfire were like for you? Did you produce any cartoons as a result of it?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:38" 
+                            endTime="00:13:11">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Were you able to go back to Gatlinburg soon after the fire and do you have any memories of your first time back in the area?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:11" 
+                            endTime="00:23:15">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about your experience coming onto this project and reflect on some of the stories you listened to?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:23:15" 
+                            endTime="00:25:32">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Was there anything surprising that you learned while accessing these oral history interviews?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:25:32" 
+                            endTime="00:31:17">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk us through your experience producing editorial cartoons out of the stories you accessed in the collection?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:31:17" 
+                            endTime="00:32:54">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you talk about the documentation you did on social media while creating this artwork and the responses you received?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:32:54" 
+                            endTime="00:37:50">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Do you have any thoughts on the COVID-19 pandemic and how it compares to the stories you've heard in the oral histories?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:37:50" 
+                            endTime="00:43:38">
+            <pbcore:pbcoreIdentifier source="local">20220114_Ramsey_Marshall_edited_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Is there anything that we haven't talked about that you would like to share?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/marshall-ramsey-2022-01-14/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:179/datastream/TN/view</url>
+   </location>
+</mods>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Junior_Watson_2_24_17_VN800041</identifier>
+   <identifier type="pid">rfta:144</identifier>
+   <titleInfo>
+      <title>Interview with Junior Watson, 2017-02-24</title>
+   </titleInfo>
+   <abstract>Interview with Arlie "Junior" Watson, manager of the Food City in Gatlinburg. Watson discusses the day of the fire in regards to the efforts by himself and his team to preserve food resources. He also recounts the charity accomplishments by Food City both financially and through food provisions. This is a representative quote from the interview: "We walked outside and looked up and all you could see was just flames up above, back behind the store. It was within 500 yards."</abstract>
+   <name>
+      <namePart>Watson, Arlie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-02-24</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:34:21</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Business owners and staff</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85022672">
+      <topic>Charity</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12218370">
+      <geographic>Food City</geographic>
+      <cartographics>
+         <coordinates>35.7263928, -83.4805246</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Junior Watson, 2017-02-24</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"We walked outside and looked up and all you could see was just flames up above, back behind the store. It was within 500 yards."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="geographic" startTime="00:00:00" endTime="00:11:44">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Food City</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Food City.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:05:43">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:05:43" endTime="00:11:44">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Protective Measures</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Protective Measures chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:11:44" endTime="00:16:45">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Leaving the Store and Returning</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Leaving the Store and Returning chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:16:45" endTime="00:24:58">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Community Aid</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Community Aid chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:24:58" endTime="00:30:13">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_C5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Economic Effect</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Economic Effect chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:30:13" endTime="00:34:21">
+            <pbcore:pbcoreIdentifier source="local">Junior_Watson_2_24_17_VN800041_C6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Logistic Problems</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Logistic Problems chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/junior-watson-2017-02-24/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:144/datastream/TN/view</url>
+   </location>
+</mods>

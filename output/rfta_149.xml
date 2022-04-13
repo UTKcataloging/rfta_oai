@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Ken_Webster_2_23_17_Kenton_RNC010</identifier>
+   <identifier type="pid">rfta:149</identifier>
+   <titleInfo>
+      <title>Interview with Ken Webster, 2017-02-23</title>
+   </titleInfo>
+   <abstract>Interview with Ken Webster, resident of Gatlinburg. Webster discusses the speed of the wildfire that caused his family to evacuate with no prior warning that day. He recounts the devastation seen throughout Gatlinburg and especially in the Chalet Village neighborhood.  This is a representative quote from the interview: "Metal roofs would not have made the outcome any different. We had a good many houses in Chalet Village that had metal roofs. In fact there's pieces of metal roofing hanging in trees where the winds took and wrapped the metal around limbs."</abstract>
+   <name>
+      <namePart>Webster, Ken</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-02-23</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:33:00</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4612619">
+      <geographic>Chalet Village</geographic>
+      <cartographics>
+         <coordinates>35.722696, -83.528735</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Ken_Webster_2_23_17_Kenton_RNC010</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Ken Webster, 2017-02-23</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"Metal roofs would not have made the outcome any different. We had a good many houses in Chalet Village that had metal roofs. In fact there's pieces of metal roofing hanging in trees where the winds took and wrapped the metal around limbs."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="geographic" startTime="00:00:00" endTime="00:05:27">
+            <pbcore:pbcoreIdentifier source="local">Ken_Webster_2_23_17_Kenton_RNC010_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Chalet Village</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Chalet Village.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:07:35">
+            <pbcore:pbcoreIdentifier source="local">Ken_Webster_2_23_17_Kenton_RNC010_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Sudden Evacuation</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Sudden Evacuation chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:07:35" endTime="00:14:55">
+            <pbcore:pbcoreIdentifier source="local">Ken_Webster_2_23_17_Kenton_RNC010_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Community Loss</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Community Loss chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:14:55" endTime="00:22:12">
+            <pbcore:pbcoreIdentifier source="local">Ken_Webster_2_23_17_Kenton_RNC010_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>After the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>After the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:22:12" endTime="00:33:00">
+            <pbcore:pbcoreIdentifier source="local">Ken_Webster_2_23_17_Kenton_RNC010_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Planning Ahead</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Planning Ahead chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/ken-webster-2017-02-23/</url>
+      <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:149/datastream/TN/view</url>
+   </location>
+</mods>
